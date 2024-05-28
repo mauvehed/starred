@@ -965,6 +965,7 @@
 
 ## others 
 
+- [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Plex Meta Manager helper script for a chronological Returning Soon collection with dates.
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [Schachte/cloudflare-stream-downloader](https://github.com/Schachte/cloudflare-stream-downloader) - Download tool for Cloudflare Stream
