@@ -368,6 +368,7 @@
 
 ## Others 
 
+- [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) - 
 - [SpaceTradersAPI/awesome-spacetraders](https://github.com/SpaceTradersAPI/awesome-spacetraders) - 
