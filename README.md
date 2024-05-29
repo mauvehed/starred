@@ -315,7 +315,7 @@
 - [greenbone/gsa](https://github.com/greenbone/gsa) - Greenbone Security Assistant - The web frontend for the Greenbone Community Edition
 - [bearlikelion/vhstatus](https://github.com/bearlikelion/vhstatus) - Valheim dedicated server status page
 - [philhawthorne/ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
-- [MozillaReality/hubs-discord-bot](https://github.com/MozillaReality/hubs-discord-bot) - A Discord bot that helps you use Mozilla Hubs together with people in Discord.
+- [MozillaReality/hubs-discord-bot](https://github.com/MozillaReality/hubs-discord-bot) - A Discord bot that helps you use Hubs together with people in Discord.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
