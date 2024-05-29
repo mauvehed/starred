@@ -1138,7 +1138,7 @@
 - [simonw/ca-fires-history](https://github.com/simonw/ca-fires-history) - Tracking fire data from www.fire.ca.gov
 - [barnumbirr/ares](https://github.com/barnumbirr/ares) - A python wrapper around https://cve.circl.lu.
 - [NorthernSec/CVE-Scan](https://github.com/NorthernSec/CVE-Scan) - Scan systems with NMap and parse the output to a list of CVE's, CWE's and DPE's
-- [MozillaReality/hubs-discord-bot](https://github.com/MozillaReality/hubs-discord-bot) - A Discord bot that helps you use Mozilla Hubs together with people in Discord.
+- [MozillaReality/hubs-discord-bot](https://github.com/MozillaReality/hubs-discord-bot) - A Discord bot that helps you use Hubs together with people in Discord.
 - [jkirkcaldy/plex-utills](https://github.com/jkirkcaldy/plex-utills) - Manage your Plex library automatically
 - [yagpdb-cc/yagpdb-cc](https://github.com/yagpdb-cc/yagpdb-cc) - A curated collection of custom commands for the YAGPDB Discord bot
 - [Zate/ControlsAssessmentSpecification](https://github.com/Zate/ControlsAssessmentSpecification) - Controls Assessment Specification
