@@ -497,6 +497,7 @@
 
 ## Python 
 
+- [nicoloboschi/poetry-dockerize-plugin](https://github.com/nicoloboschi/poetry-dockerize-plugin) - Poetry plugin your Poetry application to a Docker image easily.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Plex Meta Manager helper script for a chronological Returning Soon collection with dates.
