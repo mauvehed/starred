@@ -445,6 +445,7 @@
 
 ## docker 
 
+- [nicoloboschi/poetry-dockerize-plugin](https://github.com/nicoloboschi/poetry-dockerize-plugin) - Poetry plugin your Poetry application to a Docker image easily.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -1422,6 +1423,7 @@
 
 ## python 
 
+- [nicoloboschi/poetry-dockerize-plugin](https://github.com/nicoloboschi/poetry-dockerize-plugin) - Poetry plugin your Poetry application to a Docker image easily.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [cosmictraders/autotraders](https://github.com/cosmictraders/autotraders) - A spacetraders API focused on automation and ease of use
