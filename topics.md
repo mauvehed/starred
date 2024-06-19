@@ -1003,7 +1003,7 @@
 - [synacktiv/shh](https://github.com/synacktiv/shh) - Systemd Hardening Helper
 - [unpoller/dashboards](https://github.com/unpoller/dashboards) - UniFi Poller Grafana Dashboards
 - [unpoller/unpoller.github.io](https://github.com/unpoller/unpoller.github.io) - UnPoller Web Site
-- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [FIRSTdotorg/global-irt](https://github.com/FIRSTdotorg/global-irt) - Global IRT (Incident Response Team) is a project to describe common IRT and abuse contact information
 - [FIRSTdotorg/epss](https://github.com/FIRSTdotorg/epss) - Exploit Prediction Scoring System (EPSS)
 - [FIRSTdotorg/cvss-v4-calculator](https://github.com/FIRSTdotorg/cvss-v4-calculator) - CVSS v4.0 calculator
@@ -1262,7 +1262,6 @@
 - [NationalSecurityAgency/SIMP](https://github.com/NationalSecurityAgency/SIMP) - A system automation and configuration management stack targeted toward operational flexibility and policy compliance.
 - [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) - 
 - [indeedeng/proctor](https://github.com/indeedeng/proctor) - Proctor is a Java-based A/B testing framework developed by, and used heavily within, Indeed.
-- [tenable/nessrest](https://github.com/tenable/nessrest) - A python library for using the new Nessus REST API.
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [sigpwny/Exploit_Labs](https://github.com/sigpwny/Exploit_Labs) - Contains exploit-related challenges to use during meetings.
 - [gauntlt/gauntlt](https://github.com/gauntlt/gauntlt) - a ruggedization framework that embodies the principle "be mean to your code"
