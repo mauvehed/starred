@@ -798,6 +798,7 @@
 
 ## TypeScript 
 
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [vulncheck-oss/action](https://github.com/vulncheck-oss/action) - The VulnCheck Github Action
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
