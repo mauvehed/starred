@@ -979,6 +979,7 @@
 
 ## others 
 
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [vulncheck-oss/action](https://github.com/vulncheck-oss/action) - The VulnCheck Github Action
 - [vulncheck-oss/cli](https://github.com/vulncheck-oss/cli) - VulnCheck's official command line tool
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
