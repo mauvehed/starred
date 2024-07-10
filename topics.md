@@ -22,6 +22,7 @@
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
+- [bugbounty](#bugbounty)
 - [c](#c)
 - [chatgpt](#chatgpt)
 - [chrome-extension](#chrome-extension)
@@ -298,6 +299,10 @@
 - [Nightorn/Aldebaran](https://github.com/Nightorn/Aldebaran) - Aldebaran is a cross-platform (Discord and Revolt) multi-purposes bot which offers useful features to DiscordRPG players along with many commands of all kinds, from fun to utilities.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
+
+## bugbounty 
+
+- [yevh/VulnPlanet](https://github.com/yevh/VulnPlanet) - Vulnerable code snippets with fixes for Web2, Web3, API, iOS, Android and Infrastructure-as-Code (IaC)
 
 ## c 
 
