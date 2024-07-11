@@ -295,7 +295,7 @@
 - [interactions-py/interactions.py](https://github.com/interactions-py/interactions.py) - A highly extensible, easy to use, and feature complete bot framework for Discord
 - [savioxavier/repo-finder-bot](https://github.com/savioxavier/repo-finder-bot) - Find the best repos to contribute to, right from Discord!
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) - A module-based Discord bot template.
-- [Member-Counter/bot](https://github.com/Member-Counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
+- [member-counter/bot](https://github.com/member-counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
 - [Nightorn/Aldebaran](https://github.com/Nightorn/Aldebaran) - Aldebaran is a cross-platform (Discord and Revolt) multi-purposes bot which offers useful features to DiscordRPG players along with many commands of all kinds, from fun to utilities.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
@@ -442,7 +442,7 @@
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) - A module-based Discord bot template.
 - [Androz2091/discord-backup](https://github.com/Androz2091/discord-backup) - 📦 Complete framework to facilitate server backup using discord.js v13
 - [DiscordHooks/travis-ci-discord-webhook](https://github.com/DiscordHooks/travis-ci-discord-webhook) - ⛓ Here's your serverless solution for sending build status from Travis CI to Discord as webhooks.
-- [Member-Counter/bot](https://github.com/Member-Counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
+- [member-counter/bot](https://github.com/member-counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [Nightorn/Aldebaran](https://github.com/Nightorn/Aldebaran) - Aldebaran is a cross-platform (Discord and Revolt) multi-purposes bot which offers useful features to DiscordRPG players along with many commands of all kinds, from fun to utilities.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
@@ -485,7 +485,7 @@
 - [philhawthorne/ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [Member-Counter/bot](https://github.com/Member-Counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
+- [member-counter/bot](https://github.com/member-counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
 - [frozenfoxx/docker-crawl](https://github.com/frozenfoxx/docker-crawl) - Docker container for Dungeon Crawl Stone Soup
 - [frozenfoxx/terraform-crawl-linode](https://github.com/frozenfoxx/terraform-crawl-linode) - Deploy a DCSS server in Linode
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
@@ -898,14 +898,14 @@
 ## mongodb 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [Member-Counter/bot](https://github.com/Member-Counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
+- [member-counter/bot](https://github.com/member-counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
 - [zKillboard/zKillboard](https://github.com/zKillboard/zKillboard) - Easy does it
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 
 ## mongoose 
 
-- [Member-Counter/bot](https://github.com/Member-Counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
+- [member-counter/bot](https://github.com/member-counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
 
 ## monitoring 
 
@@ -1735,7 +1735,7 @@
 - [Skona27/is-even](https://github.com/Skona27/is-even) - SaaS platform for checking if number is even
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-- [Member-Counter/bot](https://github.com/Member-Counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
+- [member-counter/bot](https://github.com/member-counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## ubuntu 
