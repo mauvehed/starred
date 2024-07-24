@@ -43,6 +43,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Swift](#swift)
+- [Text](#text)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
@@ -373,6 +374,7 @@
 
 ## Others 
 
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities.
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) - 
@@ -795,6 +797,10 @@
 - [mastodon/mastodon-ios](https://github.com/mastodon/mastodon-ios) - Official iOS app for Mastodon
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
+
+## Text 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
 
 ## TypeScript 
 
