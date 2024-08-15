@@ -986,6 +986,7 @@
 
 ## others 
 
+- [Kredence/DC32_Fragments](https://github.com/Kredence/DC32_Fragments) - 
 - [austinmesh/bridger](https://github.com/austinmesh/bridger) - A Meshtastic MQTT to InfluxDB metrics bridge
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [vulncheck-oss/action](https://github.com/vulncheck-oss/action) - The VulnCheck Github Action
