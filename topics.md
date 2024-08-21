@@ -183,7 +183,7 @@
 - [walokra/docker-ansible-playbook](https://github.com/walokra/docker-ansible-playbook) - Docker Image of Ansible for executing ansible-playbook command against an externally mounted set of Ansible playbooks
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to https://PlexGuide.com ~ Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## api 
@@ -500,7 +500,7 @@
 - [walokra/docker-ansible-playbook](https://github.com/walokra/docker-ansible-playbook) - Docker Image of Ansible for executing ansible-playbook command against an externally mounted set of Ansible playbooks
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to https://PlexGuide.com ~ Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -1749,7 +1749,7 @@
 ## ubuntu 
 
 - [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to https://PlexGuide.com ~ Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
 ## unity 
