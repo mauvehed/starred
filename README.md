@@ -100,7 +100,7 @@
 - [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 - [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [hackforsatan/devilbadge](https://github.com/hackforsatan/devilbadge) - Status: summoned and unleashed upon DEF CON 25
 - [netik/chibios-orchard](https://github.com/netik/chibios-orchard) - A port of ChibiOS for the Freescale MKW01, based on the Orchard Code, for a custom wearable Defcon25 Badge
 - [sigpwny/Exploit_Labs](https://github.com/sigpwny/Exploit_Labs) - Contains exploit-related challenges to use during meetings.
