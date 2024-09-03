@@ -185,7 +185,6 @@
 - [walokra/docker-ansible-playbook](https://github.com/walokra/docker-ansible-playbook) - Docker Image of Ansible for executing ansible-playbook command against an externally mounted set of Ansible playbooks
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Welcome to PlexGuide ~ Deploy Multiple Docker Containers in a Hasty Manner
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## api 
@@ -1292,7 +1291,7 @@
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [deathbybandaid/piholeparser](https://github.com/deathbybandaid/piholeparser) - Pi-Hole Compatible lists
 - [stamparm/EternalRocks](https://github.com/stamparm/EternalRocks) - EternalRocks worm
-- [d30sa1/RootKits-List-Download](https://github.com/d30sa1/RootKits-List-Download) - This is the list of all rootkits found so far on github and other sites.
+- [skyw4tch3r/RootKits-List-Download](https://github.com/skyw4tch3r/RootKits-List-Download) - This is the list of all rootkits found so far on github and other sites.
 - [byteclubfr/uncloak](https://github.com/byteclubfr/uncloak) - A live theme editor for reveal.js (colors, font, sizes...)
 - [OWASP-Austin/blackhatpython](https://github.com/OWASP-Austin/blackhatpython) - Study group working through Black Hat Python: https://www.nostarch.com/blackhatpython
 - [bugcrowd/vulnerability-rating-taxonomy](https://github.com/bugcrowd/vulnerability-rating-taxonomy) - Bugcrowd’s baseline priority ratings for common security vulnerabilities
