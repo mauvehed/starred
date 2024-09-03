@@ -445,7 +445,7 @@
 - [berzerk0/Probable-Wordlists](https://github.com/berzerk0/Probable-Wordlists) - Version 2 is live! Wordlists sorted by probability originally created for password generation and testing - make sure your passwords aren't popular!
 - [markofu/pcaps](https://github.com/markofu/pcaps) - Public Repository of all Publicly Available Packet Captures that I've used or come across
 - [stamparm/EternalRocks](https://github.com/stamparm/EternalRocks) - EternalRocks worm
-- [d30sa1/RootKits-List-Download](https://github.com/d30sa1/RootKits-List-Download) - This is the list of all rootkits found so far on github and other sites.
+- [skyw4tch3r/RootKits-List-Download](https://github.com/skyw4tch3r/RootKits-List-Download) - This is the list of all rootkits found so far on github and other sites.
 - [xairy/linux-kernel-exploitation](https://github.com/xairy/linux-kernel-exploitation) - A collection of links related to Linux kernel security and exploitation
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
