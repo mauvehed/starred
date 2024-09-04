@@ -376,7 +376,7 @@
 
 - [DC-Makers-Community/DC-Designs](https://github.com/DC-Makers-Community/DC-Designs) - 
 - [Kredence/DC32_Fragments](https://github.com/Kredence/DC32_Fragments) - 
-- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities.
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
 - [HackerNews/API](https://github.com/HackerNews/API) - Documentation and Samples for the Official HN API
 - [dracula/dracula-theme](https://github.com/dracula/dracula-theme) - 🧛🏻‍♂️ One theme. All platforms.
 - [Maker-Management-Platform/docs](https://github.com/Maker-Management-Platform/docs) - 
@@ -551,6 +551,7 @@
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
 - [drygdryg/netbox-device-autodiscovery](https://github.com/drygdryg/netbox-device-autodiscovery) - Script for network scanning and automatic device discovery for NetBox
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev
+- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [netbox-community/pynetbox](https://github.com/netbox-community/pynetbox) - Python API client library for Netbox.
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
 - [python-discord/sir-lancebot](https://github.com/python-discord/sir-lancebot) - A Discord bot started as a community project for Hacktoberfest 2018, later evolved to an introductory project for aspiring new developers starting out with open source development.
@@ -740,7 +741,6 @@
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Experimenting with codespaces
 - [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
-- [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [berry2012/kubernetes-the-hard-way-on-aws](https://github.com/berry2012/kubernetes-the-hard-way-on-aws) - Setup Kubernetes the hard way on AWS
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
