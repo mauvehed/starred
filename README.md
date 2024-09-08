@@ -314,7 +314,7 @@
 - [JupiterOne/security-policy-templates](https://github.com/JupiterOne/security-policy-templates) - A set of policies, standards and control procedures with mapping to HIPAA, NIST CSF, PCI DSS, SOC2, FedRAMP, CIS Controls, and more.
 - [JupiterOne/secops-automation-examples](https://github.com/JupiterOne/secops-automation-examples) - Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.
 - [mauvehed/Con-Tech-Roster-Export](https://github.com/mauvehed/Con-Tech-Roster-Export) - Automates exports from Shiftboard systems into Google Drive
-- [jub0t/BotMaster](https://github.com/jub0t/BotMaster) - Simplify Discord Bot and Node.js Script Management with this tool.
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Dekita/Discord-RPC-Tool](https://github.com/Dekita/Discord-RPC-Tool) - Discord RPC Tool written by DekitaRPG
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
