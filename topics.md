@@ -524,6 +524,7 @@
 
 ## documentation 
 
+- [caido/documentation](https://github.com/caido/documentation) - 📙 Caido documentation
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
@@ -1069,7 +1070,6 @@
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [jonathanvansina/docker-compose-nas](https://github.com/jonathanvansina/docker-compose-nas) - Optimized Docker Compose files to use on a Synology NAS
 - [projectdiscovery/nuclei-docs](https://github.com/projectdiscovery/nuclei-docs) - Nuclei documentation
-- [caido/documentation](https://github.com/caido/documentation) - 📙 Caido documentation
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 - [sonicos/BlackBadgeRaffleBadge_DC30](https://github.com/sonicos/BlackBadgeRaffleBadge_DC30) - Free-range artisan Black Badge Raffle Badge for DEFCON 30. Now arsenic free!
 - [trinitor/CVE-Vulnerability-Information-Downloader](https://github.com/trinitor/CVE-Vulnerability-Information-Downloader) - Downloads Information from NIST (CVSS), first.org (EPSS), and CISA (Exploited Vulnerabilities) and combines them into one list. Reports from vulnerability scanners like OpenVAS can be enriched with th
