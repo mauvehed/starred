@@ -817,7 +817,7 @@
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
 - [tailscale-dev/vscode-tailscale](https://github.com/tailscale-dev/vscode-tailscale) - VS Code extension for Tailscale
-- [caido/documentation](https://github.com/caido/documentation) - 📙 Caido documentation
+- [caido/documentation](https://github.com/caido/documentation) - 📙 User documentation for Caido
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [superfly/flyctl-actions](https://github.com/superfly/flyctl-actions) - :octocat: GitHub Action that wraps the flyctl
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
