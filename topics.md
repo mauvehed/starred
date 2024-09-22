@@ -524,7 +524,7 @@
 
 ## documentation 
 
-- [caido/documentation](https://github.com/caido/documentation) - 📙 Caido documentation
+- [caido/documentation](https://github.com/caido/documentation) - 📙 User documentation for Caido
 - [dec0dOS/amazing-github-template](https://github.com/dec0dOS/amazing-github-template) - 🚀 Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [sourcegraph/doctree](https://github.com/sourcegraph/doctree) - First-class library documentation for every language (based on tree-sitter), with symbol search & more. Lightweight single binary, run locally or self-host. Surfaces usage examples via Sourcegraph.
 - [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
