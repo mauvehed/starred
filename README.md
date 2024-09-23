@@ -723,6 +723,7 @@
 
 ## Shell 
 
+- [LePresidente/docker-nginx-proxy-manager](https://github.com/LePresidente/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) - A glorious combination of application / theme settings and a performant cross-platform, desktop-oriented software suite.
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 - [alexmyczko/ruptime](https://github.com/alexmyczko/ruptime) - poor man’s ruptime
