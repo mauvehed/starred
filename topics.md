@@ -997,6 +997,7 @@
 
 ## others 
 
+- [LePresidente/docker-nginx-proxy-manager](https://github.com/LePresidente/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [DC-Makers-Community/DC-Designs](https://github.com/DC-Makers-Community/DC-Designs) - 
 - [Kredence/DC32_Fragments](https://github.com/Kredence/DC32_Fragments) - 
 - [austinmesh/bridger](https://github.com/austinmesh/bridger) - A Meshtastic MQTT to InfluxDB metrics bridge
