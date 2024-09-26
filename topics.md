@@ -509,7 +509,7 @@
 - [walokra/docker-ansible-playbook](https://github.com/walokra/docker-ansible-playbook) - Docker Image of Ansible for executing ansible-playbook command against an externally mounted set of Ansible playbooks
 - [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -634,7 +634,7 @@
 ## go 
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -660,7 +660,7 @@
 
 - [vulncheck-oss/sdk](https://github.com/vulncheck-oss/sdk) - Bring the VulnCheck API to your Go applications.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailnet anywhere
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -858,7 +858,7 @@
 
 ## llm 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 
 ## low-code 
 
@@ -1760,7 +1760,7 @@
 ## ubuntu 
 
 - [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - Deploy Multiple Docker Containers in a Hasty Manner
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
 ## unity 
