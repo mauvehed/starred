@@ -1333,7 +1333,7 @@
 - [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb) - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 - [SpiderLabs/Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
 - [DanMcInerney/wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
-- [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec.sh
+- [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec
 - [richinseattle/Dockerfiles](https://github.com/richinseattle/Dockerfiles) - 
 - [rapid7/metasploitable3](https://github.com/rapid7/metasploitable3) - Metasploitable3 is a VM that is built from the ground up with a large amount of security vulnerabilities.
 - [Waptor/phone-number-wifi-brute-forcer](https://github.com/Waptor/phone-number-wifi-brute-forcer) - This script takes in your location and SSID and tries to brute-force the Wi-Fi password based on valid area codes/exchanges in your town.
