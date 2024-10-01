@@ -673,7 +673,7 @@
 
 ## Roff 
 
-- [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec.sh
+- [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec
 
 ## Ruby 
 
