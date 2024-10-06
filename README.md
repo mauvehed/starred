@@ -830,7 +830,7 @@
 - [joshbolduc/vscode-commitlint](https://github.com/joshbolduc/vscode-commitlint) - commitlint integration for VS Code
 - [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [amodm/ip-lookup](https://github.com/amodm/ip-lookup) - Free IP details lookup service, based on Cloudflare Workers
-- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress/seeking contributors].
+- [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
 - [Skona27/is-even](https://github.com/Skona27/is-even) - SaaS platform for checking if number is even
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
