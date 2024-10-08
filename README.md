@@ -373,6 +373,7 @@
 
 ## Others 
 
+- [communitysec/sbom-hall-of-fame](https://github.com/communitysec/sbom-hall-of-fame) - A place for the InfoSec community to share and celebrate real stories of organizations successfully using SBOMs (and other bills of material) to actually manage and reduce security risk in meaningful 
 - [DC-Makers-Community/DC-Designs](https://github.com/DC-Makers-Community/DC-Designs) - 
 - [Kredence/DC32_Fragments](https://github.com/Kredence/DC32_Fragments) - 
 - [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
