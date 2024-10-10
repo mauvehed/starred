@@ -127,7 +127,6 @@
 
 ## C++ 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [ANDnXOR/Adafruit_NeoPixel-ANDnXOR](https://github.com/ANDnXOR/Adafruit_NeoPixel-ANDnXOR) - NeoPixel Library that works with STM32duino. Tested with WS2812B.
 - [vxunderground/VX-API](https://github.com/vxunderground/VX-API) - Collection of various malicious functionality to aid in malware development
 - [schambers/temp-sensors](https://github.com/schambers/temp-sensors) - Pi Zero  W Temperature/Humidity sensor (DHT22) script and InfluxDB integration
@@ -179,9 +178,11 @@
 
 ## Go 
 
+- [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [vulncheck-oss/cli](https://github.com/vulncheck-oss/cli) - VulnCheck's official command line tool
 - [vulncheck-oss/sdk](https://github.com/vulncheck-oss/sdk) - Bring the VulnCheck API to your Go applications.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [Schachte/cloudflare-stream-downloader](https://github.com/Schachte/cloudflare-stream-downloader) - Download tool for Cloudflare Stream
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
@@ -706,6 +707,7 @@
 
 ## Rust 
 
+- [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [synacktiv/shh](https://github.com/synacktiv/shh) - Systemd Hardening Helper
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
