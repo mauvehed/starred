@@ -895,6 +895,7 @@
 
 ## markdown 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 
@@ -1795,6 +1796,7 @@
 
 ## vue 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 
