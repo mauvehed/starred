@@ -587,7 +587,6 @@
 - [Boerderij/Varken](https://github.com/Boerderij/Varken) - Standalone application to aggregate data from the Plex ecosystem into InfluxDB using Grafana as a frontend
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [l3uddz/plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
-- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [davidski/VulnPryer](https://github.com/davidski/VulnPryer) - 🎯 Vulnerability Pryer - Prying context into your vulnerability data
 - [conchyliculture/Yand](https://github.com/conchyliculture/Yand) - Yet Another Nand Dumper
@@ -714,6 +713,7 @@
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [mbround18/valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interfa
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 
 ## SCSS 
 
@@ -811,6 +811,7 @@
 
 ## TypeScript 
 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [vulncheck-oss/action](https://github.com/vulncheck-oss/action) - The VulnCheck Github Action
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
