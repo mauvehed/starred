@@ -617,6 +617,7 @@
 
 ## github 
 
+- [Muscaw/gitea-github-sync](https://github.com/Muscaw/gitea-github-sync) - gitea-github-sync provides a simple CLI to sync Github repositories to your Gitea instance
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
@@ -1693,7 +1694,6 @@
 
 ## shell 
 
-- [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [mrworf/plexupdate](https://github.com/mrworf/plexupdate) - Plex Update script to simplify the life of Linux Plex Media Server users.
