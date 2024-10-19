@@ -187,7 +187,7 @@
 - [Schachte/cloudflare-stream-downloader](https://github.com/Schachte/cloudflare-stream-downloader) - Download tool for Cloudflare Stream
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
 - [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments
-- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Fast and customizable vulnerability scanner based on simple YAML based DSL.
+- [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailnet anywhere
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [fly-apps/terraform-provider-fly](https://github.com/fly-apps/terraform-provider-fly) - Terraform provider for the Fly.io API
@@ -508,6 +508,7 @@
 
 ## Python 
 
+- [blakdayz/osx-netscan](https://github.com/blakdayz/osx-netscan) - A Zenmap Alternative, Specifically for M Series MacOS 14 and up
 - [Muscaw/gitea-github-sync](https://github.com/Muscaw/gitea-github-sync) - gitea-github-sync provides a simple CLI to sync Github repositories to your Gitea instance
 - [austinmesh/bridger](https://github.com/austinmesh/bridger) - A Meshtastic MQTT to InfluxDB metrics bridge
 - [nicoloboschi/poetry-dockerize-plugin](https://github.com/nicoloboschi/poetry-dockerize-plugin) - Poetry plugin your Poetry application to a Docker image easily.
