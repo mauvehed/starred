@@ -292,6 +292,7 @@
 
 ## Java 
 
+- [OWASP-Benchmark/BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dy
 - [jeFF0Falltrades/Malware-Writeups](https://github.com/jeFF0Falltrades/Malware-Writeups) - A collection of my reverse engineering and malware analysis write-ups
 - [indeedeng/proctor](https://github.com/indeedeng/proctor) - Proctor is a Java-based A/B testing framework developed by, and used heavily within, Indeed.
 - [Netflix/denominator](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash
@@ -374,6 +375,7 @@
 
 ## Others 
 
+- [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [communitysec/sbom-hall-of-fame](https://github.com/communitysec/sbom-hall-of-fame) - A place for the InfoSec community to share and celebrate real stories of organizations successfully using SBOMs (and other bills of material) to actually manage and reduce security risk in meaningful 
 - [DC-Makers-Community/DC-Designs](https://github.com/DC-Makers-Community/DC-Designs) - 
 - [Kredence/DC32_Fragments](https://github.com/Kredence/DC32_Fragments) - 
@@ -508,6 +510,7 @@
 
 ## Python 
 
+- [t0sche/cvss-bt](https://github.com/t0sche/cvss-bt) - Enriching the NVD CVSS scores to include Temporal & Threat Metrics
 - [blakdayz/osx-netscan](https://github.com/blakdayz/osx-netscan) - A Zenmap Alternative, Specifically for M Series MacOS 14 and up
 - [Muscaw/gitea-github-sync](https://github.com/Muscaw/gitea-github-sync) - gitea-github-sync provides a simple CLI to sync Github repositories to your Gitea instance
 - [austinmesh/bridger](https://github.com/austinmesh/bridger) - A Meshtastic MQTT to InfluxDB metrics bridge
@@ -727,6 +730,7 @@
 
 ## Shell 
 
+- [RiskBasedPrioritization/RiskBasedPrioritization.github.io](https://github.com/RiskBasedPrioritization/RiskBasedPrioritization.github.io) - 
 - [SteamDeckHomebrew/decky-installer](https://github.com/SteamDeckHomebrew/decky-installer) - Installer for decky loader
 - [LePresidente/docker-nginx-proxy-manager](https://github.com/LePresidente/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
 - [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) - A glorious combination of application / theme settings and a performant cross-platform, desktop-oriented software suite.
