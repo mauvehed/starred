@@ -87,6 +87,7 @@
 - [libopencm3/libopencm3](https://github.com/libopencm3/libopencm3) - Open source ARM Cortex-M microcontroller library
 - [dczia/Defcon27-Badge](https://github.com/dczia/Defcon27-Badge) - DCZia Defcon27 Laser Theremin Synthesizer Badge - 2019
 - [hackgnar/ble_ctf](https://github.com/hackgnar/ble_ctf) - A Bluetooth low energy capture the flag
+- [ValveSoftware/steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - 
 - [solokeys/solo1](https://github.com/solokeys/solo1) - Solo 1 firmware in C
 - [USBNinjaRRG/USBNinja](https://github.com/USBNinjaRRG/USBNinja) - USBNinja Embedded Software Framework
 - [zfasel/snbl](https://github.com/zfasel/snbl) - scotch and bubbles lanyard, 2018
@@ -437,7 +438,6 @@
 - [jetbalsa/BSidesRoc2019-TapeBadge](https://github.com/jetbalsa/BSidesRoc2019-TapeBadge) - 
 - [adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 - [patrickrb/reddit-defcon-meetup-SAO](https://github.com/patrickrb/reddit-defcon-meetup-SAO) - SAO for reddit meetup at Defcon 27
-- [ValveSoftware/steamlink-sdk](https://github.com/ValveSoftware/steamlink-sdk) - 
 - [lovelydreamer/UnsafeFrameworkMethods](https://github.com/lovelydreamer/UnsafeFrameworkMethods) - Unsafe framework methods
 - [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking) - A repository of resources about public speaking, specifically in the context of software development and IT conferences.
 - [CoffeeAndCode/ansible-duo](https://github.com/CoffeeAndCode/ansible-duo) - Ansible galaxy role for Duo
