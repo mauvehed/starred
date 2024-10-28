@@ -259,7 +259,6 @@
 
 - [todb/CNAs](https://github.com/todb/CNAs) - A low-calorie, unofficial view of the CNA list.
 - [mauvehed/austinhackers.github.io](https://github.com/mauvehed/austinhackers.github.io) - AHA! Website Source
-- [mauvehed/mauvehed.github.io](https://github.com/mauvehed/mauvehed.github.io) - mauvehed.com gitpages repo
 - [HackersAssociation/HackersAssociation.org](https://github.com/HackersAssociation/HackersAssociation.org) - The HackersAssociation.org website
 - [projectdiscovery/nuclei-docs](https://github.com/projectdiscovery/nuclei-docs) - Nuclei documentation
 - [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Gro
