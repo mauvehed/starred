@@ -1079,7 +1079,6 @@
 - [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [mauvehed/austinhackers.github.io](https://github.com/mauvehed/austinhackers.github.io) - AHA! Website Source
-- [mauvehed/mauvehed.github.io](https://github.com/mauvehed/mauvehed.github.io) - mauvehed.com gitpages repo
 - [HackersAssociation/HackersAssociation.org](https://github.com/HackersAssociation/HackersAssociation.org) - The HackersAssociation.org website
 - [contechcrew/contechcrew.github.io](https://github.com/contechcrew/contechcrew.github.io) - 
 - [HackMiami/Discordbot-presentation](https://github.com/HackMiami/Discordbot-presentation) - 
