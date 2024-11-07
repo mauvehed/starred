@@ -1008,6 +1008,8 @@
 
 ## others 
 
+- [open-ham/OpenGD77](https://github.com/open-ham/OpenGD77) - Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
+- [jarrfarr/baofeng-uv5r](https://github.com/jarrfarr/baofeng-uv5r) - Modifications, Frequency lists, CHIRP images, Hacks and Tips for your UV-5R Handy-talkies.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
 - [RiskBasedPrioritization/RiskBasedPrioritization.github.io](https://github.com/RiskBasedPrioritization/RiskBasedPrioritization.github.io) - 
@@ -1476,6 +1478,7 @@
 
 ## python 
 
+- [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [nicoloboschi/poetry-dockerize-plugin](https://github.com/nicoloboschi/poetry-dockerize-plugin) - Poetry plugin your Poetry application to a Docker image easily.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
@@ -1537,6 +1540,7 @@
 
 ## python3 
 
+- [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [cosmictraders/autotraders](https://github.com/cosmictraders/autotraders) - A spacetraders API focused on automation and ease of use
 - [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython) - Python Resources for Everyone
