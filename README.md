@@ -368,6 +368,7 @@
 
 ## Makefile 
 
+- [radiodoc/uv-5r](https://github.com/radiodoc/uv-5r) - Baofeng UV-5R
 - [theparanoids/PrioritizedRiskRemediation](https://github.com/theparanoids/PrioritizedRiskRemediation) - A Risk-Based Prioritization Taxonomy for prioritizing CVEs (Common Vulnerabilities and Exposures).
 - [hamster/classroom](https://github.com/hamster/classroom) - Classes I have developed
 
@@ -377,6 +378,7 @@
 
 ## Others 
 
+- [SamuelNetherway460/Baofeng-UV-5R](https://github.com/SamuelNetherway460/Baofeng-UV-5R) - Repository for operation guidance, radio configuration images and other general information for the Baofeng UV-5R radio.
 - [jarrfarr/baofeng-uv5r](https://github.com/jarrfarr/baofeng-uv5r) - Modifications, Frequency lists, CHIRP images, Hacks and Tips for your UV-5R Handy-talkies.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
 - [communitysec/sbom-hall-of-fame](https://github.com/communitysec/sbom-hall-of-fame) - A place for the InfoSec community to share and celebrate real stories of organizations successfully using SBOMs (and other bills of material) to actually manage and reduce security risk in meaningful 
@@ -512,6 +514,7 @@
 
 ## Python 
 
+- [Frninezy/NextDNS-Domain-Bulk-Loader](https://github.com/Frninezy/NextDNS-Domain-Bulk-Loader) - Add your own custom domain lists to NextDNS
 - [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
 - [t0sche/cvss-bt](https://github.com/t0sche/cvss-bt) - Enriching the NVD CVSS scores to include Temporal & Threat Metrics
 - [blakdayz/osx-netscan](https://github.com/blakdayz/osx-netscan) - A Zenmap Alternative, Specifically for M Series MacOS 14 and up
@@ -823,6 +826,7 @@
 
 ## TypeScript 
 
+- [kaakaa/slidev-resources-template](https://github.com/kaakaa/slidev-resources-template) - Template repository to manage and build slidev resources
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
 - [vulncheck-oss/action](https://github.com/vulncheck-oss/action) - The VulnCheck Github Action
