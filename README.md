@@ -28,6 +28,7 @@
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -376,6 +377,10 @@
 
 - [HDVinnie/TrackerHub](https://github.com/HDVinnie/TrackerHub) - Monitor tracker uptime
 
+## Objective-C 
+
+- [joelekstrom/fastmate](https://github.com/joelekstrom/fastmate) - A native Fastmail-wrapper for Mac.
+
 ## Others 
 
 - [SamuelNetherway460/Baofeng-UV-5R](https://github.com/SamuelNetherway460/Baofeng-UV-5R) - Repository for operation guidance, radio configuration images and other general information for the Baofeng UV-5R radio.
@@ -514,6 +519,7 @@
 
 ## Python 
 
+- [whad-team/whad-client](https://github.com/whad-team/whad-client) - Wireless Hacking Devices Protocol client
 - [Frninezy/NextDNS-Domain-Bulk-Loader](https://github.com/Frninezy/NextDNS-Domain-Bulk-Loader) - Add your own custom domain lists to NextDNS
 - [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
 - [t0sche/cvss-bt](https://github.com/t0sche/cvss-bt) - Enriching the NVD CVSS scores to include Temporal & Threat Metrics
