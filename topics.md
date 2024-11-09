@@ -1008,6 +1008,12 @@
 
 ## others 
 
+- [joelekstrom/fastmate](https://github.com/joelekstrom/fastmate) - A native Fastmail-wrapper for Mac.
+- [whad-team/whad-client](https://github.com/whad-team/whad-client) - Wireless Hacking Devices Protocol client
+- [kaakaa/slidev-resources-template](https://github.com/kaakaa/slidev-resources-template) - Template repository to manage and build slidev resources
+- [Frninezy/NextDNS-Domain-Bulk-Loader](https://github.com/Frninezy/NextDNS-Domain-Bulk-Loader) - Add your own custom domain lists to NextDNS
+- [SamuelNetherway460/Baofeng-UV-5R](https://github.com/SamuelNetherway460/Baofeng-UV-5R) - Repository for operation guidance, radio configuration images and other general information for the Baofeng UV-5R radio.
+- [radiodoc/uv-5r](https://github.com/radiodoc/uv-5r) - Baofeng UV-5R
 - [open-ham/OpenGD77](https://github.com/open-ham/OpenGD77) - Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 - [jarrfarr/baofeng-uv5r](https://github.com/jarrfarr/baofeng-uv5r) - Modifications, Frequency lists, CHIRP images, Hacks and Tips for your UV-5R Handy-talkies.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
