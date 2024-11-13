@@ -96,7 +96,6 @@
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [pervognsen/bitwise](https://github.com/pervognsen/bitwise) - Bitwise is an educational project where we create the software/hardware stack for a computer from scratch.
 - [hackforsatan/impbadge](https://github.com/hackforsatan/impbadge) - Status: summoned and unleashed upon DEF CON 26
-- [stephenstockman/BLECTF_FUN](https://github.com/stephenstockman/BLECTF_FUN) - Fan-made Bluetooth Low Energy CTF based on the original ble_ctf by Hackgnar.
 - [denandz/fuzzotron](https://github.com/denandz/fuzzotron) - A TCP/UDP based network daemon fuzzer
 - [rosehgal/BinExp](https://github.com/rosehgal/BinExp) - Linux Binary Exploitation
 - [IAIK/meltdown](https://github.com/IAIK/meltdown) - This repository contains several applications, demonstrating the Meltdown bug.
