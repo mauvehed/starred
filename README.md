@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [islandmagic/bb-link](https://github.com/islandmagic/bb-link) - B.B. Link, the BLE to Bluetooth Classic adapter for Kenwood TH-D74 / TH-D75 Radios
 - [ANDnXOR/Adafruit_NeoPixel-ANDnXOR](https://github.com/ANDnXOR/Adafruit_NeoPixel-ANDnXOR) - NeoPixel Library that works with STM32duino. Tested with WS2812B.
 - [vxunderground/VX-API](https://github.com/vxunderground/VX-API) - Collection of various malicious functionality to aid in malware development
 - [schambers/temp-sensors](https://github.com/schambers/temp-sensors) - Pi Zero  W Temperature/Humidity sensor (DHT22) script and InfluxDB integration
@@ -259,6 +260,7 @@
 
 ## HTML 
 
+- [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
 - [todb/CNAs](https://github.com/todb/CNAs) - A low-calorie, unofficial view of the CNA list.
 - [mauvehed/austinhackers.github.io](https://github.com/mauvehed/austinhackers.github.io) - AHA! Website Source
 - [HackersAssociation/HackersAssociation.org](https://github.com/HackersAssociation/HackersAssociation.org) - The HackersAssociation.org website
