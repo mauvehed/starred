@@ -1008,6 +1008,8 @@
 
 ## others 
 
+- [islandmagic/bb-link](https://github.com/islandmagic/bb-link) - B.B. Link, the BLE to Bluetooth Classic adapter for Kenwood TH-D74 / TH-D75 Radios
+- [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
 - [joelekstrom/fastmate](https://github.com/joelekstrom/fastmate) - A native Fastmail-wrapper for Mac.
 - [whad-team/whad-client](https://github.com/whad-team/whad-client) - Wireless Hacking Devices Protocol client
 - [kaakaa/slidev-resources-template](https://github.com/kaakaa/slidev-resources-template) - Template repository to manage and build slidev resources
@@ -1258,7 +1260,6 @@
 - [hackforsatan/impbadge](https://github.com/hackforsatan/impbadge) - Status: summoned and unleashed upon DEF CON 26
 - [dustin-decker/talks](https://github.com/dustin-decker/talks) - 
 - [t0ph/BangoSkank](https://github.com/t0ph/BangoSkank) - A sketch to use an ESP8266 to flood the surrounding area with SSIDs of your choosing.
-- [stephenstockman/BLECTF_FUN](https://github.com/stephenstockman/BLECTF_FUN) - Fan-made Bluetooth Low Energy CTF based on the original ble_ctf by Hackgnar.
 - [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking) - A repository of resources about public speaking, specifically in the context of software development and IT conferences.
 - [DCHHV/kali-live-build-config](https://github.com/DCHHV/kali-live-build-config) - Kali Linux ™ build tool targeted for Hardware Hacking tools
 - [aker-gateway/aker-freeipa-playbook](https://github.com/aker-gateway/aker-freeipa-playbook) - 
