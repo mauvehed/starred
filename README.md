@@ -311,7 +311,6 @@
 - [FIRSTdotorg/cvss-v4-calculator](https://github.com/FIRSTdotorg/cvss-v4-calculator) - CVSS v4.0 calculator
 - [actions-marketplace-validations/akhilmhdh_contributors-readme-action](https://github.com/actions-marketplace-validations/akhilmhdh_contributors-readme-action) - 
 - [ANDnXOR/atom-lulzcode](https://github.com/ANDnXOR/atom-lulzcode) - Language support for LULZCODE (AND!XOR DC26 Indie Badge) for Atom Editor
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [vexorian/dizquetv](https://github.com/vexorian/dizquetv) - Create live TV channels from your own media. Access the streams using the simulated HDHomerun tuner or the generated M3U URl.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Generate conventional git commit messages with AI in 1 second 🤯🔫
@@ -520,6 +519,7 @@
 
 ## Python 
 
+- [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [whad-team/whad-client](https://github.com/whad-team/whad-client) - Wireless Hacking Devices Protocol client
 - [Frninezy/NextDNS-Domain-Bulk-Loader](https://github.com/Frninezy/NextDNS-Domain-Bulk-Loader) - Add your own custom domain lists to NextDNS
 - [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
@@ -840,6 +840,7 @@
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
