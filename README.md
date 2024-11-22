@@ -688,7 +688,6 @@
 - [reddit-archive/reddit](https://github.com/reddit-archive/reddit) - historical code from reddit.com
 - [int0x80/reversing](https://github.com/int0x80/reversing) - stupid reversing stuff
 - [aaronportnoy/toolbag](https://github.com/aaronportnoy/toolbag) - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
-- [pwnieexpress/pwn_plug_sources](https://github.com/pwnieexpress/pwn_plug_sources) - Public source repository for the Pwn Plug platform.
 
 ## Roff 
 
