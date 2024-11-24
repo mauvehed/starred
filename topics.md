@@ -1406,7 +1406,6 @@
 - [SpiderLabs/CryptOMG](https://github.com/SpiderLabs/CryptOMG) - CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.
 - [aaronportnoy/toolbag](https://github.com/aaronportnoy/toolbag) - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
 - [amatus/ctf-website](https://github.com/amatus/ctf-website) - The website for a Capture The Flag competition.
-- [pwnieexpress/pwn_plug_sources](https://github.com/pwnieexpress/pwn_plug_sources) - Public source repository for the Pwn Plug platform.
 - [int0x80/anti-forensics](https://github.com/int0x80/anti-forensics) - for the louise
 - [packetfu/packetfu](https://github.com/packetfu/packetfu) - PacketFu, a mid-level packet manipulation library for Ruby
 
