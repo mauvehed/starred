@@ -535,7 +535,7 @@
 - [blissland/blissflixx](https://github.com/blissland/blissflixx) - Raspberry Pi + TV = Smart streaming experience.
 - [cosmictraders/autotraders](https://github.com/cosmictraders/autotraders) - A spacetraders API focused on automation and ease of use
 - [Ctri-The-Third/PythonTemplate](https://github.com/Ctri-The-Third/PythonTemplate) - a straightforward repo with setup actions, unit-testing, requirements, and such.
-- [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their
+- [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [brinhosa/apidetector](https://github.com/brinhosa/apidetector) - APIDetector: Efficiently scan for exposed Swagger endpoints across web domains and subdomains. Supports HTTP/HTTPS, multi-threading, and flexible input/output options. Ideal for API security testing.
 - [ANDnXOR/ANDnXOR_DC31_Badge](https://github.com/ANDnXOR/ANDnXOR_DC31_Badge) - Coming soon...
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
