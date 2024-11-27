@@ -1048,7 +1048,7 @@
 - [SpaceTradersAPI/awesome-spacetraders](https://github.com/SpaceTradersAPI/awesome-spacetraders) - 
 - [SpaceTradersAPI/api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
-- [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their
+- [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [todb/CNAs](https://github.com/todb/CNAs) - A low-calorie, unofficial view of the CNA list.
 - [woolfg/dokuwiki-plugin-gitbacked](https://github.com/woolfg/dokuwiki-plugin-gitbacked) - Plugin for DokuWiki to store/sync files and media with a git repo
 - [valheimPlus/ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
