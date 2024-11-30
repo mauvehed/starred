@@ -383,6 +383,7 @@
 
 ## Others 
 
+- [terremoth/awesome-m5stack-cardputer](https://github.com/terremoth/awesome-m5stack-cardputer) - Awesome M5Stack Cardputer
 - [SamuelNetherway460/Baofeng-UV-5R](https://github.com/SamuelNetherway460/Baofeng-UV-5R) - Repository for operation guidance, radio configuration images and other general information for the Baofeng UV-5R radio.
 - [jarrfarr/baofeng-uv5r](https://github.com/jarrfarr/baofeng-uv5r) - Modifications, Frequency lists, CHIRP images, Hacks and Tips for your UV-5R Handy-talkies.
 - [sbilly/awesome-security](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.
