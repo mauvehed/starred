@@ -1008,6 +1008,7 @@
 
 ## others 
 
+- [terremoth/awesome-m5stack-cardputer](https://github.com/terremoth/awesome-m5stack-cardputer) - Awesome M5Stack Cardputer
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [islandmagic/bb-link](https://github.com/islandmagic/bb-link) - B.B. Link, the BLE to Bluetooth Classic adapter for Kenwood TH-D74 / TH-D75 Radios
 - [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
