@@ -820,6 +820,7 @@
 
 ## jupyter-notebook 
 
+- [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
 - [Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 
 ## kubernetes 
@@ -1008,6 +1009,8 @@
 
 ## others 
 
+- [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units.
+- [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client
 - [terremoth/awesome-m5stack-cardputer](https://github.com/terremoth/awesome-m5stack-cardputer) - Awesome M5Stack Cardputer
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [islandmagic/bb-link](https://github.com/islandmagic/bb-link) - B.B. Link, the BLE to Bluetooth Classic adapter for Kenwood TH-D74 / TH-D75 Radios
@@ -1020,7 +1023,6 @@
 - [radiodoc/uv-5r](https://github.com/radiodoc/uv-5r) - Baofeng UV-5R
 - [open-ham/OpenGD77](https://github.com/open-ham/OpenGD77) - Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 - [jarrfarr/baofeng-uv5r](https://github.com/jarrfarr/baofeng-uv5r) - Modifications, Frequency lists, CHIRP images, Hacks and Tips for your UV-5R Handy-talkies.
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
 - [RiskBasedPrioritization/RiskBasedPrioritization.github.io](https://github.com/RiskBasedPrioritization/RiskBasedPrioritization.github.io) - 
 - [t0sche/cvss-bt](https://github.com/t0sche/cvss-bt) - Enriching the NVD CVSS scores to include Temporal & Threat Metrics
@@ -1486,8 +1488,10 @@
 
 ## python 
 
+- [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
 - [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [nicoloboschi/poetry-dockerize-plugin](https://github.com/nicoloboschi/poetry-dockerize-plugin) - Poetry plugin your Poetry application to a Docker image easily.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
