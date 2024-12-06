@@ -150,6 +150,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1110,7 +1111,6 @@
 - [DefectDojo/defectdojo_api](https://github.com/DefectDojo/defectdojo_api) - Python API library for DefectDojo
 - [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Gro
 - [superfly/flyctl-actions](https://github.com/superfly/flyctl-actions) - :octocat: GitHub Action that wraps the flyctl
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
 - [fly-apps/python-hellofly-flask](https://github.com/fly-apps/python-hellofly-flask) - A Pythonic version of the Hellofly example
 - [fly-apps/terraform-provider-fly](https://github.com/fly-apps/terraform-provider-fly) - Terraform provider for the Fly.io API
 - [superfly/fly-pr-review-apps](https://github.com/superfly/fly-pr-review-apps) - Github Action for PR Review Apps on Fly.io
@@ -1178,7 +1178,6 @@
 - [awslabs/aws-automated-incident-response-and-forensics](https://github.com/awslabs/aws-automated-incident-response-and-forensics) - 
 - [fightingferret/lora-buddy](https://github.com/fightingferret/lora-buddy) - LoRa Buddy, an ESP32 and LoRa based handheld texting gadget.
 - [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm) - Run Tailscale on your Unifi Dream Machine
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [hackersarcade/Reaper-VM](https://github.com/hackersarcade/Reaper-VM) - An installation script that helps you instantly setup a reverse engineering environment.
 - [custom-components/sensor.unifigateway](https://github.com/custom-components/sensor.unifigateway) - High level health status of UniFi Security Gateway devices via UniFi Controller
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
@@ -1820,6 +1819,14 @@
 
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
+
+## vpn 
+
+- [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailnet anywhere
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github!
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
+- [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
 ## vue 
 
