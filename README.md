@@ -869,7 +869,7 @@
 - [microsoft/vscode-python-devicesimulator](https://github.com/microsoft/vscode-python-devicesimulator) - Device Simulator Express, a Microsoft Garage project
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) - A module-based Discord bot template.
 - [Androz2091/discord-backup](https://github.com/Androz2091/discord-backup) - 📦 Complete framework to facilitate server backup using discord.js v13
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [member-counter/bot](https://github.com/member-counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
 - [Nightorn/Aldebaran](https://github.com/Nightorn/Aldebaran) - Aldebaran is a cross-platform (Discord and Revolt) multi-purposes bot which offers useful features to DiscordRPG players along with many commands of all kinds, from fun to utilities.
 - [httpcats/http.cat](https://github.com/httpcats/http.cat) - :cat: HTTP Cats API
