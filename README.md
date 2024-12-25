@@ -66,6 +66,7 @@
 
 ## C 
 
+- [PhirePhly/aprx](https://github.com/PhirePhly/aprx) - A highly configurable APRS I-gate/Digipeater Daemon
 - [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
 - [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units.
 - [open-ham/OpenGD77](https://github.com/open-ham/OpenGD77) - Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
