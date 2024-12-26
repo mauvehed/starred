@@ -132,6 +132,7 @@
 
 ## C++ 
 
+- [g4klx/MMDVMHost](https://github.com/g4klx/MMDVMHost) - The host program for the MMDVM
 - [islandmagic/bb-link](https://github.com/islandmagic/bb-link) - B.B. Link, the BLE to Bluetooth Classic adapter for Kenwood TH-D74 / TH-D75 Radios
 - [ANDnXOR/Adafruit_NeoPixel-ANDnXOR](https://github.com/ANDnXOR/Adafruit_NeoPixel-ANDnXOR) - NeoPixel Library that works with STM32duino. Tested with WS2812B.
 - [vxunderground/VX-API](https://github.com/vxunderground/VX-API) - Collection of various malicious functionality to aid in malware development
@@ -523,6 +524,7 @@
 
 ## Python 
 
+- [HBLink-org/hblink3](https://github.com/HBLink-org/hblink3) - HBlink for Python3
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [whad-team/whad-client](https://github.com/whad-team/whad-client) - Wireless Hacking Devices Protocol client
@@ -733,7 +735,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [synacktiv/shh](https://github.com/synacktiv/shh) - Systemd Hardening Helper
+- [synacktiv/shh](https://github.com/synacktiv/shh) - Systemd Hardening Helper - Mirror of https://github.com/desbma/shh
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
@@ -881,6 +883,7 @@
 
 ## Vim Script 
 
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [johngrib/vim-game-code-break](https://github.com/johngrib/vim-game-code-break) - Block-breaking game in vim 8.0
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [natw/keyboard_cat.vim](https://github.com/natw/keyboard_cat.vim) - vim plugin for pretending like you can actually type
