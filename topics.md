@@ -1041,6 +1041,7 @@
 
 ## others 
 
+- [nobssoftware/nocommit](https://github.com/nobssoftware/nocommit) - Prevent committing debug & private code using NOCOMMIT tags
 - [bmorcelli/M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [HBLink-org/hblink3](https://github.com/HBLink-org/hblink3) - HBlink for Python3
