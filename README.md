@@ -756,6 +756,7 @@
 
 ## Shell 
 
+- [nobssoftware/nocommit](https://github.com/nobssoftware/nocommit) - Prevent committing debug & private code using NOCOMMIT tags
 - [RiskBasedPrioritization/RiskBasedPrioritization.github.io](https://github.com/RiskBasedPrioritization/RiskBasedPrioritization.github.io) - 
 - [SteamDeckHomebrew/decky-installer](https://github.com/SteamDeckHomebrew/decky-installer) - Installer for decky loader
 - [LePresidente/docker-nginx-proxy-manager](https://github.com/LePresidente/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
