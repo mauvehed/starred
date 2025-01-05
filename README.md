@@ -493,6 +493,7 @@
 
 ## PHP 
 
+- [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [woolfg/dokuwiki-plugin-gitbacked](https://github.com/woolfg/dokuwiki-plugin-gitbacked) - Plugin for DokuWiki to store/sync files and media with a git repo
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
