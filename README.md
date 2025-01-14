@@ -777,7 +777,7 @@
 - [gmatuz/cve-scanner-exploiting-pocs](https://github.com/gmatuz/cve-scanner-exploiting-pocs) - 
 - [superfly/fly-pr-review-apps](https://github.com/superfly/fly-pr-review-apps) - Github Action for PR Review Apps on Fly.io
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Experimenting with codespaces
-- [anandslab/docker-traefik](https://github.com/anandslab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+- [SimpleHomelab/docker-traefik](https://github.com/SimpleHomelab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [berry2012/kubernetes-the-hard-way-on-aws](https://github.com/berry2012/kubernetes-the-hard-way-on-aws) - Setup Kubernetes the hard way on AWS
