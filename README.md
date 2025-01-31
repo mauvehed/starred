@@ -187,6 +187,7 @@
 
 ## Go 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
@@ -846,6 +847,7 @@
 
 ## TypeScript 
 
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client
 - [kaakaa/slidev-resources-template](https://github.com/kaakaa/slidev-resources-template) - Template repository to manage and build slidev resources
