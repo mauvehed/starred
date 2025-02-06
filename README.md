@@ -608,7 +608,7 @@
 - [jekyc/wig](https://github.com/jekyc/wig) - WebApp Information Gatherer
 - [dropbox/nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
-- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB Made Easy
+- [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [znb/Scripts](https://github.com/znb/Scripts) - General scripts for random stuff
 - [barnumbirr/ares](https://github.com/barnumbirr/ares) - A python wrapper around https://cve.circl.lu.
 - [NorthernSec/CVE-Scan](https://github.com/NorthernSec/CVE-Scan) - Scan systems with NMap and parse the output to a list of CVE's, CWE's and DPE's
