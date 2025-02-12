@@ -102,7 +102,7 @@
 - [hackforsatan/impbadge](https://github.com/hackforsatan/impbadge) - Status: summoned and unleashed upon DEF CON 26
 - [denandz/fuzzotron](https://github.com/denandz/fuzzotron) - A TCP/UDP based network daemon fuzzer
 - [rosehgal/BinExp](https://github.com/rosehgal/BinExp) - Linux Binary Exploitation
-- [IAIK/meltdown](https://github.com/IAIK/meltdown) - This repository contains several applications, demonstrating the Meltdown bug.
+- [isec-tugraz/meltdown](https://github.com/isec-tugraz/meltdown) - This repository contains several applications, demonstrating the Meltdown bug.
 - [networkupstools/nut](https://github.com/networkupstools/nut) - The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 - [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
