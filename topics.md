@@ -401,7 +401,6 @@
 
 ## css 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 
@@ -771,7 +770,7 @@
 - [DiscordHooks/travis-ci-discord-webhook](https://github.com/DiscordHooks/travis-ci-discord-webhook) - ⛓ Here's your serverless solution for sending build status from Travis CI to Discord as webhooks.
 - [philhawthorne/ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
-- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled-dev/WLED](https://github.com/wled-dev/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [sagar-jadhav/go-examples](https://github.com/sagar-jadhav/go-examples) - Get Set Learn Go
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -809,7 +808,6 @@
 
 ## html 
 
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 
 ## http 
@@ -1333,7 +1331,7 @@
 - [will8211/unimatrix](https://github.com/will8211/unimatrix) - Python script to simulate the display from "The Matrix" in terminal. Uses half-width katakana unicode characters by default, but can use custom character sets. Accepts keyboard controls while running.
 - [Zate/botceptor](https://github.com/Zate/botceptor) - Some hacked together code for running some machine learning over twitter followers
 - [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
-- [IAIK/meltdown](https://github.com/IAIK/meltdown) - This repository contains several applications, demonstrating the Meltdown bug.
+- [isec-tugraz/meltdown](https://github.com/isec-tugraz/meltdown) - This repository contains several applications, demonstrating the Meltdown bug.
 - [ThreatHuntingProject/hunter](https://github.com/ThreatHuntingProject/hunter) - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
 - [dimalinux/spoofsourceip](https://github.com/dimalinux/spoofsourceip) - Golang/gopath example for spoofing UDP source IP addresses
 - [adrienbrignon/cloudflare-ddns](https://github.com/adrienbrignon/cloudflare-ddns) - A script to update your Cloudflare DNS records at a glance.
