@@ -848,7 +848,7 @@
 ## TypeScript 
 
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client
 - [kaakaa/slidev-resources-template](https://github.com/kaakaa/slidev-resources-template) - Template repository to manage and build slidev resources
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
