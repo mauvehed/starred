@@ -491,7 +491,7 @@
 
 ## docker 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [nicoloboschi/poetry-dockerize-plugin](https://github.com/nicoloboschi/poetry-dockerize-plugin) - Poetry plugin your Poetry application to a Docker image easily.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
@@ -770,7 +770,7 @@
 - [DiscordHooks/travis-ci-discord-webhook](https://github.com/DiscordHooks/travis-ci-discord-webhook) - ⛓ Here's your serverless solution for sending build status from Travis CI to Discord as webhooks.
 - [philhawthorne/ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
-- [wled-dev/WLED](https://github.com/wled-dev/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [sagar-jadhav/go-examples](https://github.com/sagar-jadhav/go-examples) - Get Set Learn Go
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -827,7 +827,7 @@
 
 ## iot 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 - [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
@@ -1763,7 +1763,7 @@
 
 ## self-hosted 
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Management Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
