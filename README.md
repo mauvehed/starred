@@ -758,6 +758,7 @@
 
 ## Shell 
 
+- [TechMindsYT/pihpsdrmods](https://github.com/TechMindsYT/pihpsdrmods) - 
 - [nobssoftware/nocommit](https://github.com/nobssoftware/nocommit) - Prevent committing debug & private code using NOCOMMIT tags
 - [RiskBasedPrioritization/RiskBasedPrioritization.github.io](https://github.com/RiskBasedPrioritization/RiskBasedPrioritization.github.io) - 
 - [SteamDeckHomebrew/decky-installer](https://github.com/SteamDeckHomebrew/decky-installer) - Installer for decky loader
