@@ -1051,6 +1051,7 @@
 
 ## others 
 
+- [TechMindsYT/pihpsdrmods](https://github.com/TechMindsYT/pihpsdrmods) - 
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [nobssoftware/nocommit](https://github.com/nobssoftware/nocommit) - Prevent committing debug & private code using NOCOMMIT tags
 - [bmorcelli/M5Stick-Launcher](https://github.com/bmorcelli/M5Stick-Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
