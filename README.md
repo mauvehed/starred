@@ -140,7 +140,7 @@
 - [schambers/temp-sensors](https://github.com/schambers/temp-sensors) - Pi Zero  W Temperature/Humidity sensor (DHT22) script and InfluxDB integration
 - [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
 - [crossroadsfpga/pigasus](https://github.com/crossroadsfpga/pigasus) - 100Gbps Intrusion Detection and Prevention System
-- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [forkineye/ESPixelStick](https://github.com/forkineye/ESPixelStick) - Firmware for the ESPixelStick
 - [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) - Arduino core for the ESP32
 - [Robotips/uConfig](https://github.com/Robotips/uConfig) - Datasheet pinout extractor from PDF and library Stylizer for Kicad.
