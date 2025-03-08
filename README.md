@@ -273,6 +273,7 @@
 - [todb/CNAs](https://github.com/todb/CNAs) - A low-calorie, unofficial view of the CNA list.
 - [mauvehed/austinhackers.github.io](https://github.com/mauvehed/austinhackers.github.io) - AHA! Website Source
 - [HackersAssociation/HackersAssociation.org](https://github.com/HackersAssociation/HackersAssociation.org) - The HackersAssociation.org website
+- [contechcrew/contechcrew.github.io](https://github.com/contechcrew/contechcrew.github.io) - 
 - [projectdiscovery/nuclei-docs](https://github.com/projectdiscovery/nuclei-docs) - Nuclei documentation
 - [CVEProject/cve-schema](https://github.com/CVEProject/cve-schema) - This repository is used for the development of the CVE JSON record format. Releases of the CVE JSON record format will also be published here. This repository is managed by the CVE Quality Working Gro
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
@@ -418,7 +419,6 @@
 - [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
-- [contechcrew/contechcrew.github.io](https://github.com/contechcrew/contechcrew.github.io) - 
 - [jonathanvansina/docker-compose-nas](https://github.com/jonathanvansina/docker-compose-nas) - Optimized Docker Compose files to use on a Synology NAS
 - [CVEProject/automation-working-group](https://github.com/CVEProject/automation-working-group) - CVE Automation Working Group
 - [LogicOverSnacks/glint-release](https://github.com/LogicOverSnacks/glint-release) - 
