@@ -327,6 +327,7 @@
 - [cloudflare/python-worker-hello-world](https://github.com/cloudflare/python-worker-hello-world) - Python hello world for Cloudflare Workers
 - [JupiterOne/security-policy-templates](https://github.com/JupiterOne/security-policy-templates) - A set of policies, standards and control procedures with mapping to HIPAA, NIST CSF, PCI DSS, SOC2, FedRAMP, CIS Controls, and more.
 - [JupiterOne/secops-automation-examples](https://github.com/JupiterOne/secops-automation-examples) - Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [mauvehed/Con-Tech-Roster-Export](https://github.com/mauvehed/Con-Tech-Roster-Export) - Automates exports from Shiftboard systems into Google Drive
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Dekita/Discord-RPC-Tool](https://github.com/Dekita/Discord-RPC-Tool) - Discord RPC Tool written by DekitaRPG
@@ -875,7 +876,6 @@
 - [zeshuaro/vscode-poetry](https://github.com/zeshuaro/vscode-poetry) - Python Poetry support for VS Code to manage Poetry commands
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [joshbolduc/vscode-commitlint](https://github.com/joshbolduc/vscode-commitlint) - commitlint integration for VS Code
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [amodm/ip-lookup](https://github.com/amodm/ip-lookup) - Free IP details lookup service, based on Cloudflare Workers
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
