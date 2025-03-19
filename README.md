@@ -532,6 +532,7 @@
 
 ## Python 
 
+- [mauvehed/trackerstatus_discord](https://github.com/mauvehed/trackerstatus_discord) - A Discord bot that monitors the status of various private trackers and sends notifications when their status changes.
 - [HBLink-org/hblink3](https://github.com/HBLink-org/hblink3) - HBlink for Python3
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
@@ -905,6 +906,7 @@
 
 ## Vue 
 
+- [mauvehed/yourip.app](https://github.com/mauvehed/yourip.app) - Source code for yourip.app website
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [bourgeoisor/xivtodo](https://github.com/bourgeoisor/xivtodo) - Dashboards, tailored checklists and tools for Final Fantasy XIV.
 - [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world.
