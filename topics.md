@@ -1699,7 +1699,6 @@
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [CVEProject/automation-working-group](https://github.com/CVEProject/automation-working-group) - CVE Automation Working Group
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
-- [gmatuz/cve-scanner-exploiting-pocs](https://github.com/gmatuz/cve-scanner-exploiting-pocs) - 
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [yevh/VulnPlanet](https://github.com/yevh/VulnPlanet) - Vulnerable code snippets with fixes for Web2, Web3, API, iOS, Android and Infrastructure-as-Code (IaC)
 - [fbonalair/traefik-crowdsec-bouncer](https://github.com/fbonalair/traefik-crowdsec-bouncer) - A http service to verify request and bounce them according to decisions made by CrowdSec.
