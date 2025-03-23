@@ -573,7 +573,7 @@
 - [ccie18643/PyTCP](https://github.com/ccie18643/PyTCP) - PyTCP is a fully functional TCP/IP stack written in Python. It supports TCP stream-based transport with reliable packet delivery based on a sliding window mechanism and basic congestion control. It al
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [bpython/bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
-- [pkkid/python-plexapi](https://github.com/pkkid/python-plexapi) - Python bindings for the Plex API.
+- [pushingkarmaorg/python-plexapi](https://github.com/pushingkarmaorg/python-plexapi) - Python bindings for the Plex API.
 - [mauvehed/trackerstatus](https://github.com/mauvehed/trackerstatus) - A Python library for interacting with trackerstatus.info API.
 - [drdanio/eve-simple-esi](https://github.com/drdanio/eve-simple-esi) - The Python 3+ library for simple and fast work with https://esi.evetech.net data.
 - [ntt/eveapi](https://github.com/ntt/eveapi) - Python library for accessing the EVE Online API
