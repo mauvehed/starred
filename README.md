@@ -161,7 +161,7 @@
 
 ## CSS 
 
-- [red-team-offense-village/redteamvillage_website](https://github.com/red-team-offense-village/redteamvillage_website) - The source code of the DEF CON Red Team Offense Village website
+- [red-team-offense-village/website](https://github.com/red-team-offense-village/website) - New RTV website
 - [AustinHackers/austinhackers.github.io](https://github.com/AustinHackers/austinhackers.github.io) - AHA! Website Source
 - [Zate/poedom](https://github.com/Zate/poedom) - 
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
