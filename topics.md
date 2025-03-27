@@ -1057,6 +1057,8 @@
 
 ## others 
 
+- [red-team-offense-village/website](https://github.com/red-team-offense-village/website) - New RTV website
+- [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [mauvehed/yourip.app](https://github.com/mauvehed/yourip.app) - Source code for yourip.app website
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
 - [TechMindsYT/pihpsdrmods](https://github.com/TechMindsYT/pihpsdrmods) - 
@@ -1146,7 +1148,6 @@
 - [TURROKS/CVE_Prioritizer](https://github.com/TURROKS/CVE_Prioritizer) - Streamline vulnerability patching with CVSS, EPSS, and CISA's Known Exploited Vulnerabilities. Prioritize actions based on real-time threat information, gain a competitive advantage, and stay informed
 - [theparanoids/PrioritizedRiskRemediation](https://github.com/theparanoids/PrioritizedRiskRemediation) - A Risk-Based Prioritization Taxonomy for prioritizing CVEs (Common Vulnerabilities and Exposures).
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-- [red-team-offense-village/redteamvillage_website](https://github.com/red-team-offense-village/redteamvillage_website) - The source code of the DEF CON Red Team Offense Village website
 - [pre-commit-ci/pre-commit.ci](https://github.com/pre-commit-ci/pre-commit.ci) - Website for https://pre-commit.ci
 - [pre-commit-ci/pre-commit-ci-config](https://github.com/pre-commit-ci/pre-commit-ci-config) - validation for pre-commit.ci configuration
 - [A-poc/BlueTeam-Tools](https://github.com/A-poc/BlueTeam-Tools) - Tools and Techniques for Blue Team / Incident Response
