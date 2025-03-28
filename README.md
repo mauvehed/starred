@@ -161,7 +161,6 @@
 
 ## CSS 
 
-- [red-team-offense-village/website](https://github.com/red-team-offense-village/website) - New RTV website
 - [AustinHackers/austinhackers.github.io](https://github.com/AustinHackers/austinhackers.github.io) - AHA! Website Source
 - [Zate/poedom](https://github.com/Zate/poedom) - 
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
@@ -270,6 +269,7 @@
 
 ## HTML 
 
+- [red-team-offense-village/website](https://github.com/red-team-offense-village/website) - New RTV website
 - [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
 - [todb/CNAs](https://github.com/todb/CNAs) - A low-calorie, unofficial view of the CNA list.
 - [mauvehed/austinhackers.github.io](https://github.com/mauvehed/austinhackers.github.io) - AHA! Website Source
