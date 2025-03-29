@@ -543,7 +543,7 @@
 - [blakdayz/osx-netscan](https://github.com/blakdayz/osx-netscan) - A Zenmap Alternative, Specifically for M Series MacOS 14 and up
 - [Muscaw/gitea-github-sync](https://github.com/Muscaw/gitea-github-sync) - gitea-github-sync provides a simple CLI to sync Github repositories to your Gitea instance
 - [austinmesh/bridger](https://github.com/austinmesh/bridger) - A Meshtastic MQTT to InfluxDB metrics bridge
-- [nicoloboschi/poetry-dockerize-plugin](https://github.com/nicoloboschi/poetry-dockerize-plugin) - Poetry plugin your Poetry application to a Docker image easily.
+- [nicoloboschi/dockerpyze](https://github.com/nicoloboschi/dockerpyze) - Python applications to Docker, automatically.
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [InsertDisc/pattrmm](https://github.com/InsertDisc/pattrmm) - Plex Meta Manager helper script for a chronological Returning Soon collection with dates.
@@ -766,7 +766,7 @@
 - [RiskBasedPrioritization/RiskBasedPrioritization.github.io](https://github.com/RiskBasedPrioritization/RiskBasedPrioritization.github.io) - 
 - [SteamDeckHomebrew/decky-installer](https://github.com/SteamDeckHomebrew/decky-installer) - Installer for decky loader
 - [LePresidente/docker-nginx-proxy-manager](https://github.com/LePresidente/docker-nginx-proxy-manager) - Docker container for Nginx Proxy Manager
-- [megabyte-labs/install.doctor](https://github.com/megabyte-labs/install.doctor) - A glorious combination of application / theme settings and a performant cross-platform, desktop-oriented software suite.
+- [HeyMegabyte/install.doctor](https://github.com/HeyMegabyte/install.doctor) - A glorious combination of application / theme settings and a performant cross-platform, desktop-oriented software suite.
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
 - [alexmyczko/ruptime](https://github.com/alexmyczko/ruptime) - poor man’s ruptime
 - [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
