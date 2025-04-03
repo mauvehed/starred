@@ -780,7 +780,7 @@
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [trinitor/CVE-Vulnerability-Information-Downloader](https://github.com/trinitor/CVE-Vulnerability-Information-Downloader) - Downloads Information from NIST (CVSS), first.org (EPSS), and CISA (Exploited Vulnerabilities) and combines them into one list. Reports from vulnerability scanners like OpenVAS can be enriched with th
 - [superfly/fly-pr-review-apps](https://github.com/superfly/fly-pr-review-apps) - Github Action for PR Review Apps on Fly.io
-- [tailscale/codespace](https://github.com/tailscale/codespace) - Experimenting with codespaces
+- [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
 - [SimpleHomelab/docker-traefik](https://github.com/SimpleHomelab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
@@ -885,7 +885,7 @@
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 - [Midnight-Lizard/Midnight-Lizard](https://github.com/Midnight-Lizard/Midnight-Lizard) - Сustom color schemes for all websites
 - [Skona27/is-even](https://github.com/Skona27/is-even) - SaaS platform for checking if number is even
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [microsoft/vscode-python-devicesimulator](https://github.com/microsoft/vscode-python-devicesimulator) - Device Simulator Express, a Microsoft Garage project
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) - A module-based Discord bot template.
