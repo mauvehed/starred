@@ -782,7 +782,7 @@
 - [trinitor/CVE-Vulnerability-Information-Downloader](https://github.com/trinitor/CVE-Vulnerability-Information-Downloader) - Downloads Information from NIST (CVSS), first.org (EPSS), and CISA (Exploited Vulnerabilities) and combines them into one list. Reports from vulnerability scanners like OpenVAS can be enriched with th
 - [superfly/fly-pr-review-apps](https://github.com/superfly/fly-pr-review-apps) - Github Action for PR Review Apps on Fly.io
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
-- [SimpleHomelab/docker-traefik](https://github.com/SimpleHomelab/docker-traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
+- [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, Swarm Mode, Google OAuth2/Authelia, and LetsEncrypt
 - [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [berry2012/kubernetes-the-hard-way-on-aws](https://github.com/berry2012/kubernetes-the-hard-way-on-aws) - Setup Kubernetes the hard way on AWS
