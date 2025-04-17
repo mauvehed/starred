@@ -501,7 +501,7 @@
 ## docker 
 
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
-- [nicoloboschi/dockerpyze](https://github.com/nicoloboschi/dockerpyze) - Python applications to Docker, automatically.
+- [nicoloboschi/dockerpyze](https://github.com/nicoloboschi/dockerpyze) - Python applications to Docker, automatically  🐳
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -1553,7 +1553,7 @@
 - [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [nicoloboschi/dockerpyze](https://github.com/nicoloboschi/dockerpyze) - Python applications to Docker, automatically.
+- [nicoloboschi/dockerpyze](https://github.com/nicoloboschi/dockerpyze) - Python applications to Docker, automatically  🐳
 - [pre-commit/pre-commit-hooks](https://github.com/pre-commit/pre-commit-hooks) - Some out-of-the-box hooks for pre-commit
 - [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library
 - [cosmictraders/autotraders](https://github.com/cosmictraders/autotraders) - A spacetraders API focused on automation and ease of use
