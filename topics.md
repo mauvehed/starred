@@ -462,6 +462,7 @@
 
 ## discord 
 
+- [mauvehed/kevvy](https://github.com/mauvehed/kevvy) - A Discord bot for searching the Common Vulnerabilities and Exposures (CVE) list and providing KEV updates.
 - [mauvehed/trackerstatus_discord](https://github.com/mauvehed/trackerstatus_discord) - A Discord bot that monitors the status of various private trackers and sends notifications when their status changes.
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
