@@ -1063,6 +1063,7 @@
 
 ## others 
 
+- [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
 - [red-team-offense-village/website](https://github.com/red-team-offense-village/website) - New RTV website
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [mauvehed/yourip.app](https://github.com/mauvehed/yourip.app) - Source code for yourip.app website
