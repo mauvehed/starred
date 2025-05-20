@@ -106,6 +106,7 @@
 - [samdenty/Wi-PWN](https://github.com/samdenty/Wi-PWN) - ESP8266 firmware for performing deauthentication attacks, with ease.
 - [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 
 - [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [hackforsatan/devilbadge](https://github.com/hackforsatan/devilbadge) - Status: summoned and unleashed upon DEF CON 25
 - [netik/chibios-orchard](https://github.com/netik/chibios-orchard) - A port of ChibiOS for the Freescale MKW01, based on the Orchard Code, for a custom wearable Defcon25 Badge
 - [sigpwny/Exploit_Labs](https://github.com/sigpwny/Exploit_Labs) - Contains exploit-related challenges to use during meetings.
@@ -151,7 +152,6 @@
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [mrblinkybling/wifi2017](https://github.com/mrblinkybling/wifi2017) - Mr. Blinky Bling WiFi sniffing badge for 2017
-- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [zku/PwnAdventure3Hacks](https://github.com/zku/PwnAdventure3Hacks) - A tiny hacking framework for the PwnAdventure3: Pwnie Island game created by http://ghostintheshellcode.com/ ( http://pwnadventure.com/ )
 - [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) - A simple keylogger for Windows, Linux and Mac
