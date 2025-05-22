@@ -588,7 +588,7 @@
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
 - [drygdryg/netbox-device-autodiscovery](https://github.com/drygdryg/netbox-device-autodiscovery) - Script for network scanning and automatic device discovery for NetBox
-- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/free-netbox-cloud/
+- [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [netbox-community/pynetbox](https://github.com/netbox-community/pynetbox) - Python API client library for Netbox.
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
