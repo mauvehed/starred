@@ -1295,7 +1295,7 @@
 - [arduino/OpenOCD](https://github.com/arduino/OpenOCD) - Fork of OpenOCD
 - [codewar65/VTX_ClientServer](https://github.com/codewar65/VTX_ClientServer) - VTX Client / Server package.
 - [libopencm3/libopencm3](https://github.com/libopencm3/libopencm3) - Open source ARM Cortex-M microcontroller library
-- [jetbalsa/BSidesRoc2019-TapeBadge](https://github.com/jetbalsa/BSidesRoc2019-TapeBadge) - 
+- [cyberbalsa/BSidesRoc2019-TapeBadge](https://github.com/cyberbalsa/BSidesRoc2019-TapeBadge) - 
 - [hamster/classroom](https://github.com/hamster/classroom) - Classes I have developed
 - [dczia/Defcon27-Badge](https://github.com/dczia/Defcon27-Badge) - DCZia Defcon27 Laser Theremin Synthesizer Badge - 2019
 - [hackgnar/ble_ctf](https://github.com/hackgnar/ble_ctf) - A Bluetooth low energy capture the flag
