@@ -497,7 +497,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open-source sysadmin resources.
 - [imposters-handbook/feedback](https://github.com/imposters-handbook/feedback) - General typos, issues, clarifications etc for The Imposter's Handbook
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers (实用性开发人员安全须知)
+- [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) - Security Guide for Developers
 - [therandomsecurityguy/docker-cheat-sheet](https://github.com/therandomsecurityguy/docker-cheat-sheet) - Handy cheat sheet for Docker setup and operational commands
 - [metasploit/resource-portal-data](https://github.com/metasploit/resource-portal-data) - YAML data sources for metasploit.github.io
 - [savagejen/GlobalGitIgnore](https://github.com/savagejen/GlobalGitIgnore) - 
