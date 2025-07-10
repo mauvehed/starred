@@ -803,7 +803,6 @@
 - [machupicchubeta/laptop](https://github.com/machupicchubeta/laptop) - 
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm) - Run Tailscale on your Unifi Dream Machine
-- [hackersarcade/Reaper-VM](https://github.com/hackersarcade/Reaper-VM) - An installation script that helps you instantly setup a reverse engineering environment.
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [DiscordHooks/travis-ci-discord-webhook](https://github.com/DiscordHooks/travis-ci-discord-webhook) - ⛓ Here's your serverless solution for sending build status from Travis CI to Discord as webhooks.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
