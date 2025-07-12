@@ -1275,7 +1275,6 @@
 - [awslabs/aws-automated-incident-response-and-forensics](https://github.com/awslabs/aws-automated-incident-response-and-forensics) - 
 - [fightingferret/lora-buddy](https://github.com/fightingferret/lora-buddy) - LoRa Buddy, an ESP32 and LoRa based handheld texting gadget.
 - [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm) - Run Tailscale on your Unifi Dream Machine
-- [hackersarcade/Reaper-VM](https://github.com/hackersarcade/Reaper-VM) - An installation script that helps you instantly setup a reverse engineering environment.
 - [custom-components/sensor.unifigateway](https://github.com/custom-components/sensor.unifigateway) - High level health status of UniFi Security Gateway devices via UniFi Controller
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [Thornsnake/Spectrum](https://github.com/Thornsnake/Spectrum) - Discord bot for EVE online (discontinued)
