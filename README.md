@@ -788,7 +788,7 @@
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [wei/git-sync](https://github.com/wei/git-sync) - 🔃 A GitHub Action for syncing between two independent repositories using force push
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
+- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Curated, cross-platform dotfiles for NHS engineers. Automate and standardise your development environment across macOS, Linux, and WSL using chezmoi. Supports secure Git workflows, shell setup, VSCo
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [trinitor/CVE-Vulnerability-Information-Downloader](https://github.com/trinitor/CVE-Vulnerability-Information-Downloader) - Downloads Information from NIST (CVSS), first.org (EPSS), and CISA (Exploited Vulnerabilities) and combines them into one list. Reports from vulnerability scanners like OpenVAS can be enriched with th
 - [gmatuz/cve-scanner-exploiting-pocs](https://github.com/gmatuz/cve-scanner-exploiting-pocs) - 
