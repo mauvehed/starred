@@ -50,6 +50,7 @@
 - [Vim Script](#vim-script)
 - [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [YARA](#yara)
 
 ## Arduino 
@@ -271,7 +272,6 @@
 ## HCL 
 
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - IaC for my homelab
 
 ## HTML 
 
@@ -926,6 +926,10 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [bourgeoisor/xivtodo](https://github.com/bourgeoisor/xivtodo) - Dashboards, tailored checklists and tools for Final Fantasy XIV.
 - [TheSpaghettiDetective/obico-server](https://github.com/TheSpaghettiDetective/obico-server) - Obico is a community-built, open-source smart 3D printing platform used by makers, enthusiasts, and tinkerers around the world.
+
+## YAML 
+
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - IaC for my homelab
 
 ## YARA 
 
