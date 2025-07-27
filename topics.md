@@ -240,7 +240,7 @@
 ## automation 
 
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
-- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
+- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Curated, cross-platform dotfiles for NHS engineers. Automate and standardise your development environment across macOS, Linux, and WSL using chezmoi. Supports secure Git workflows, shell setup, VSCo
 - [CVEProject/automation-working-group](https://github.com/CVEProject/automation-working-group) - CVE Automation Working Group
 - [Red5d/docker-autocompose](https://github.com/Red5d/docker-autocompose) - Generate a docker-compose yaml definition from a running container
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -461,7 +461,6 @@
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
@@ -520,7 +519,6 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [cbirkenbeul/docker-homelab](https://github.com/cbirkenbeul/docker-homelab) - Docker Compose Dateien für Homelabs
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
@@ -575,7 +573,7 @@
 ## dotfiles 
 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
+- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Curated, cross-platform dotfiles for NHS engineers. Automate and standardise your development environment across macOS, Linux, and WSL using chezmoi. Supports secure Git workflows, shell setup, VSCo
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 
 ## dotnet 
@@ -670,7 +668,6 @@
 - [Muscaw/gitea-github-sync](https://github.com/Muscaw/gitea-github-sync) - gitea-github-sync provides a simple CLI to sync Github repositories to your Gitea instance
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [wei/socialify](https://github.com/wei/socialify) - 💞 Socialify your project. 🌐 Share with the world!
-- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
 - [sourcery-ai/action](https://github.com/sourcery-ai/action) - A GitHub Action for running Sourcery.
 - [tholman/github-corners](https://github.com/tholman/github-corners) - A fresher "Fork me on GitHub" callout.
 - [cbrgm/mastodon-github-action](https://github.com/cbrgm/mastodon-github-action) - Use this Action to send a toot (message) from a GitHub actions workflow to Mastodon.
@@ -958,7 +955,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [alexmyczko/ruptime](https://github.com/alexmyczko/ruptime) - poor man’s ruptime
-- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
+- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Curated, cross-platform dotfiles for NHS engineers. Automate and standardise your development environment across macOS, Linux, and WSL using chezmoi. Supports secure Git workflows, shell setup, VSCo
 - [Lissy93/Brewfile](https://github.com/Lissy93/Brewfile) - 🍺 My list of packages to be installed on MacOS via Homebrew, for the ultimate dev setup
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1928,7 +1925,7 @@
 
 ## ubuntu 
 
-- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
+- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Curated, cross-platform dotfiles for NHS engineers. Automate and standardise your development environment across macOS, Linux, and WSL using chezmoi. Supports secure Git workflows, shell setup, VSCo
 - [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
@@ -2004,7 +2001,7 @@
 
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Cross-platform dotfiles. A stepping stone to a Cloud-based development environment and a great Developer Experience
+- [nhs-england-tools/dotfiles](https://github.com/nhs-england-tools/dotfiles) - 🚀 Curated, cross-platform dotfiles for NHS engineers. Automate and standardise your development environment across macOS, Linux, and WSL using chezmoi. Supports secure Git workflows, shell setup, VSCo
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
