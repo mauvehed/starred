@@ -44,6 +44,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
@@ -451,6 +452,13 @@
 ## design 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+## developer-tools 
+
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
+- [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 
 ## development 
 
@@ -1118,7 +1126,7 @@
 - [radiodoc/uv-5r](https://github.com/radiodoc/uv-5r) - Baofeng UV-5R
 - [open-ham/OpenGD77](https://github.com/open-ham/OpenGD77) - Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 - [jarrfarr/baofeng-uv5r](https://github.com/jarrfarr/baofeng-uv5r) - Modifications, Frequency lists, CHIRP images, Hacks and Tips for your UV-5R Handy-talkies.
-- [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Navigate the CVE jungle with ease.
+- [projectdiscovery/cvemap](https://github.com/projectdiscovery/cvemap) - Modern CLI for exploring vulnerability data with powerful search, filtering, and analysis capabilities.
 - [RiskBasedPrioritization/RiskBasedPrioritization.github.io](https://github.com/RiskBasedPrioritization/RiskBasedPrioritization.github.io) - 
 - [t0sche/cvss-bt](https://github.com/t0sche/cvss-bt) - Enriching the NVD CVSS scores to include Temporal & Threat Metrics
 - [OWASP-Benchmark/BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dy
