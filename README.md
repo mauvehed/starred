@@ -577,7 +577,7 @@
 - [chazlarson/Media-Scripts](https://github.com/chazlarson/Media-Scripts) - 
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [infobyte/faraday](https://github.com/infobyte/faraday) - Open Source Vulnerability Management Platform
-- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [DefectDojo/defectdojo_api](https://github.com/DefectDojo/defectdojo_api) - Python API library for DefectDojo
 - [fly-apps/python-hellofly-flask](https://github.com/fly-apps/python-hellofly-flask) - A Pythonic version of the Hellofly example
 - [ccie18643/PyTCP](https://github.com/ccie18643/PyTCP) - PyTCP is a fully functional TCP/IP stack written in Python. It supports TCP stream-based transport with reliable packet delivery based on a sliding window mechanism and basic congestion control. It al
