@@ -366,7 +366,6 @@
 
 - [stefangweichinger/ansible-rclone](https://github.com/stefangweichinger/ansible-rclone) - ansible role for rclone :: https://galaxy.ansible.com/stefangweichinger/ansible_rclone
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
-- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
 ## Jupyter Notebook 
 
@@ -700,6 +699,7 @@
 - [SteveMcGrath/pySecurityCenter](https://github.com/SteveMcGrath/pySecurityCenter) - 
 - [tenable/Tenable.io-SDK-for-Python](https://github.com/tenable/Tenable.io-SDK-for-Python) - Tenable.io SDK offers a scalable and safe way to integrate with the Tenable.io platform.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 - [SpiderLabs/Responder](https://github.com/SpiderLabs/Responder) - Responder is a LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server supporting NTLMv1/NTLMv2/LMv2, Extended Security NTLMSSP and Basic HTTP authentication
 - [DanMcInerney/wifijammer](https://github.com/DanMcInerney/wifijammer) - Continuously jam all wifi clients/routers
 - [Waptor/phone-number-wifi-brute-forcer](https://github.com/Waptor/phone-number-wifi-brute-forcer) - This script takes in your location and SSID and tries to brute-force the Wi-Fi password based on valid area codes/exchanges in your town.
@@ -868,7 +868,7 @@
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client
 - [kaakaa/slidev-resources-template](https://github.com/kaakaa/slidev-resources-template) - Template repository to manage and build slidev resources
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
