@@ -929,7 +929,7 @@
 
 ## YAML 
 
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - IaC for my homelab
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - IaC for my homelab - GitOps Driven
 
 ## YARA 
 
