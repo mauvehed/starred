@@ -351,7 +351,7 @@
 - [codewar65/VTX_ClientServer](https://github.com/codewar65/VTX_ClientServer) - VTX Client / Server package.
 - [NuSkooler/enigma-bbs](https://github.com/NuSkooler/enigma-bbs) - ENiGMA½ BBS Software
 - [lirantal/dockly](https://github.com/lirantal/dockly) - Immersive terminal interface for managing docker containers and services
-- [auth0/repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
+- [okta-graveyard/repo-supervisor](https://github.com/okta-graveyard/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
 - [chrisayoub/Con-Tech-Roster-Export](https://github.com/chrisayoub/Con-Tech-Roster-Export) - Automates exports from Shiftboard systems into Google Drive
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
