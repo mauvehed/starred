@@ -175,7 +175,6 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -1282,6 +1281,7 @@
 - [mauvehed/Con-Tech-Roster-Export](https://github.com/mauvehed/Con-Tech-Roster-Export) - Automates exports from Shiftboard systems into Google Drive
 - [mauvehed/ahabadge](https://github.com/mauvehed/ahabadge) - AHA! badge designs
 - [mauvehed/blackhatpython](https://github.com/mauvehed/blackhatpython) - Study group working through Black Hat Python: https://www.nostarch.com/blackhatpython
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [machupicchubeta/dotfiles](https://github.com/machupicchubeta/dotfiles) - 
 - [machupicchubeta/laptop](https://github.com/machupicchubeta/laptop) - 
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
@@ -1777,7 +1777,7 @@
 - [NullArray/AutoSploit](https://github.com/NullArray/AutoSploit) - Automated Mass Exploiter
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [PagerDuty/security-training](https://github.com/PagerDuty/security-training) - Public version of PagerDuty's employee security training courses.
-- [auth0/repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
+- [okta-graveyard/repo-supervisor](https://github.com/okta-graveyard/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
 - [dustin-decker/threatseer](https://github.com/dustin-decker/threatseer) - efficient linux security monitoring
 - [alphasoc/flightsim](https://github.com/alphasoc/flightsim) - A utility to safely generate malicious network traffic patterns and evaluate controls.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -1858,7 +1858,7 @@
 ## serverless 
 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [auth0/repo-supervisor](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
+- [okta-graveyard/repo-supervisor](https://github.com/okta-graveyard/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets. :mag:
 - [Netflix/bless](https://github.com/Netflix/bless) - Repository for BLESS, an SSH Certificate Authority that runs as a AWS Lambda function
 
 ## shell 
@@ -2044,13 +2044,6 @@
 ## xml 
 
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-
-## zsh 
-
-- [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
-- [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 
 
 ## License
