@@ -206,6 +206,7 @@
 ## ansible 
 
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
 - [stefangweichinger/ansible-rclone](https://github.com/stefangweichinger/ansible-rclone) - ansible role for rclone :: https://galaxy.ansible.com/stefangweichinger/ansible_rclone
 - [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [dev-sec/ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
@@ -306,6 +307,7 @@
 
 ## bash 
 
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -474,6 +476,7 @@
 
 ## devops 
 
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
@@ -529,6 +532,7 @@
 ## docker 
 
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [nicoloboschi/dockerpyze](https://github.com/nicoloboschi/dockerpyze) - Python applications to Docker, automatically  🐳
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -905,6 +909,7 @@
 
 ## kubernetes 
 
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -1106,7 +1111,6 @@
 
 ## others 
 
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - IaC for my homelab - GitOps Driven
 - [komodo-hub/komodo-hub](https://github.com/komodo-hub/komodo-hub) - 
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
 - [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
@@ -1924,6 +1928,7 @@
 ## terraform 
 
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [frozenfoxx/terraform-crawl-linode](https://github.com/frozenfoxx/terraform-crawl-linode) - Deploy a DCSS server in Linode
 
