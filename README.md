@@ -462,7 +462,7 @@
 - [yagpdb-cc/yagpdb-cc](https://github.com/yagpdb-cc/yagpdb-cc) - A curated collection of custom commands for the YAGPDB Discord bot
 - [rapid7/attackerkb](https://github.com/rapid7/attackerkb) - Repo for creating-and-tracking issues related to AttackerKB
 - [fm4dd/picon-one-hw](https://github.com/fm4dd/picon-one-hw) - KiCad PCB, gerber, and CAD files for the PiCon-One controller.
-- [ediskandarov/home-kubernetes](https://github.com/ediskandarov/home-kubernetes) - 
+- [ediskandarov-cur/home-kubernetes](https://github.com/ediskandarov-cur/home-kubernetes) - 
 - [cyberbalsa/BSidesRoc2019-TapeBadge](https://github.com/cyberbalsa/BSidesRoc2019-TapeBadge) - 
 - [adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
 - [patrickrb/reddit-defcon-meetup-SAO](https://github.com/patrickrb/reddit-defcon-meetup-SAO) - SAO for reddit meetup at Defcon 27
