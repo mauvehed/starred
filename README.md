@@ -869,7 +869,7 @@
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
-- [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client
+- [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
 - [kaakaa/slidev-resources-template](https://github.com/kaakaa/slidev-resources-template) - Template repository to manage and build slidev resources
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance) - Action for generating build provenance attestations for workflow artifacts
@@ -929,7 +929,7 @@
 
 ## YAML 
 
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 
 ## YARA 
 
