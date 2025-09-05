@@ -206,7 +206,7 @@
 ## ansible 
 
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [stefangweichinger/ansible-rclone](https://github.com/stefangweichinger/ansible-rclone) - ansible role for rclone :: https://galaxy.ansible.com/stefangweichinger/ansible_rclone
 - [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [dev-sec/ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
@@ -307,7 +307,7 @@
 
 ## bash 
 
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
@@ -476,7 +476,7 @@
 
 ## devops 
 
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
@@ -532,7 +532,7 @@
 ## docker 
 
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [nicoloboschi/dockerpyze](https://github.com/nicoloboschi/dockerpyze) - Python applications to Docker, automatically  🐳
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -909,7 +909,7 @@
 
 ## kubernetes 
 
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -1693,7 +1693,7 @@
 ## react 
 
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
-- [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client
+- [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -1840,7 +1840,7 @@
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
-- [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client
+- [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1928,7 +1928,7 @@
 ## terraform 
 
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
-- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps Driven IaC for my homelab
+- [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [frozenfoxx/terraform-crawl-linode](https://github.com/frozenfoxx/terraform-crawl-linode) - Deploy a DCSS server in Linode
 
