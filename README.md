@@ -135,7 +135,7 @@
 
 ## C++ 
 
-- [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+- [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [g4klx/MMDVMHost](https://github.com/g4klx/MMDVMHost) - The host program for the MMDVM
 - [islandmagic/bb-link](https://github.com/islandmagic/bb-link) - B.B. Link, the BLE to Bluetooth Classic adapter for Kenwood TH-D74 / TH-D75 Radios
 - [ANDnXOR/Adafruit_NeoPixel-ANDnXOR](https://github.com/ANDnXOR/Adafruit_NeoPixel-ANDnXOR) - NeoPixel Library that works with STM32duino. Tested with WS2812B.
