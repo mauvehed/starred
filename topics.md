@@ -1126,7 +1126,7 @@
 - [TechMindsYT/pihpsdrmods](https://github.com/TechMindsYT/pihpsdrmods) - 
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [nobssoftware/nocommit](https://github.com/nobssoftware/nocommit) - Prevent committing debug & private code using NOCOMMIT tags
-- [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - App launcher for M5StickC, M5StickC Plus, M5StickC Plus 2 and M5Cardputer
+- [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [HBLink-org/hblink3](https://github.com/HBLink-org/hblink3) - HBlink for Python3
 - [g4klx/MMDVMHost](https://github.com/g4klx/MMDVMHost) - The host program for the MMDVM
