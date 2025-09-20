@@ -73,7 +73,6 @@
 - [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units.
 - [open-ham/OpenGD77](https://github.com/open-ham/OpenGD77) - Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
-- [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.
 - [ANDnXOR/hadbadge2019_fpgasoc](https://github.com/ANDnXOR/hadbadge2019_fpgasoc) - FPGA SoC code and application example for Hackaday Supercon 2019 badge
 - [ANDnXOR/ANDnXOR_DC24_Badge](https://github.com/ANDnXOR/ANDnXOR_DC24_Badge) - AND!XOR DEFCON 24 Badge HW and SW
 - [ANDnXOR/ANDnXOR_DC28_Badge](https://github.com/ANDnXOR/ANDnXOR_DC28_Badge) - Future home of our DC28 badge
@@ -177,6 +176,7 @@
 - [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [mikeesto/heroku-awake](https://github.com/mikeesto/heroku-awake) - :sunny: A GitHub action to keep a free Heroku dyno awake
 - [cbrgm/valheim-docker](https://github.com/cbrgm/valheim-docker) - Valheim Docker dedicated gameserver in a container
+- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [klutchell/unbound](https://github.com/klutchell/unbound) - this repo has moved
 - [MattCarothers/mhn-core-docker](https://github.com/MattCarothers/mhn-core-docker) - Core elements of the Modern Honey Network implemented in Docker
 
@@ -561,6 +561,7 @@
 - [Ctri-The-Third/PythonTemplate](https://github.com/Ctri-The-Third/PythonTemplate) - a straightforward repo with setup actions, unit-testing, requirements, and such.
 - [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [brinhosa/apidetector](https://github.com/brinhosa/apidetector) - APIDetector: Efficiently scan for exposed Swagger endpoints across web domains and subdomains. Supports HTTP/HTTPS, multi-threading, and flexible input/output options. Ideal for API security testing.
+- [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.
 - [ANDnXOR/ANDnXOR_DC31_Badge](https://github.com/ANDnXOR/ANDnXOR_DC31_Badge) - Coming soon...
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -631,7 +632,6 @@
 - [l3uddz/plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
 - [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
 - [davidski/VulnPryer](https://github.com/davidski/VulnPryer) - 🎯 Vulnerability Pryer - Prying context into your vulnerability data
-- [vulhub/vulhub](https://github.com/vulhub/vulhub) - Pre-Built Vulnerable Environments Based on Docker-Compose
 - [conchyliculture/Yand](https://github.com/conchyliculture/Yand) - Yet Another Nand Dumper
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [ohjeongwook/dumpflash](https://github.com/ohjeongwook/dumpflash) - Low-level NAND Flash dump and parsing utility
