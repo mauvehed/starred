@@ -73,6 +73,7 @@
 - [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units.
 - [open-ham/OpenGD77](https://github.com/open-ham/OpenGD77) - Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
+- [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.
 - [ANDnXOR/hadbadge2019_fpgasoc](https://github.com/ANDnXOR/hadbadge2019_fpgasoc) - FPGA SoC code and application example for Hackaday Supercon 2019 badge
 - [ANDnXOR/ANDnXOR_DC24_Badge](https://github.com/ANDnXOR/ANDnXOR_DC24_Badge) - AND!XOR DEFCON 24 Badge HW and SW
 - [ANDnXOR/ANDnXOR_DC28_Badge](https://github.com/ANDnXOR/ANDnXOR_DC28_Badge) - Future home of our DC28 badge
@@ -561,7 +562,6 @@
 - [Ctri-The-Third/PythonTemplate](https://github.com/Ctri-The-Third/PythonTemplate) - a straightforward repo with setup actions, unit-testing, requirements, and such.
 - [Azure/PyRIT](https://github.com/Azure/PyRIT) - The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [brinhosa/apidetector](https://github.com/brinhosa/apidetector) - APIDetector: Efficiently scan for exposed Swagger endpoints across web domains and subdomains. Supports HTTP/HTTPS, multi-threading, and flexible input/output options. Ideal for API security testing.
-- [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.
 - [ANDnXOR/ANDnXOR_DC31_Badge](https://github.com/ANDnXOR/ANDnXOR_DC31_Badge) - Coming soon...
 - [instantbox/instantbox](https://github.com/instantbox/instantbox) - 📦 Get a clean, ready-to-go Linux box in seconds.
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
