@@ -693,7 +693,6 @@
 - [mitre/multiscanner](https://github.com/mitre/multiscanner) - Modular file scanning/analysis framework
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [dropbox/merou](https://github.com/dropbox/merou) - Permission management service
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [witchard/mog](https://github.com/witchard/mog) - A different take on the UNIX tool cat
 - [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
 - [SteveMcGrath/pySecurityCenter](https://github.com/SteveMcGrath/pySecurityCenter) - 
@@ -839,6 +838,7 @@
 - [int0x80/githump](https://github.com/int0x80/githump) - Loot email addresses from commit entries
 - [OpenToAllCTF/pwnvm](https://github.com/OpenToAllCTF/pwnvm) - Setup for a pwning VM
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [flplv/ssh-allow-friend](https://github.com/flplv/ssh-allow-friend) - A shell script to temporary allow ssh logins for friends
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
