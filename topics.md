@@ -177,6 +177,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -1291,7 +1292,6 @@
 - [mauvehed/Con-Tech-Roster-Export](https://github.com/mauvehed/Con-Tech-Roster-Export) - Automates exports from Shiftboard systems into Google Drive
 - [mauvehed/ahabadge](https://github.com/mauvehed/ahabadge) - AHA! badge designs
 - [mauvehed/blackhatpython](https://github.com/mauvehed/blackhatpython) - Study group working through Black Hat Python: https://www.nostarch.com/blackhatpython
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [machupicchubeta/dotfiles](https://github.com/machupicchubeta/dotfiles) - 
 - [machupicchubeta/laptop](https://github.com/machupicchubeta/laptop) - 
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io
@@ -2059,6 +2059,13 @@
 ## xml 
 
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+
+## zsh 
+
+- [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 
 
 ## License
