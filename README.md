@@ -68,6 +68,7 @@
 
 ## C 
 
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [PhirePhly/aprx](https://github.com/PhirePhly/aprx) - A highly configurable APRS I-gate/Digipeater Daemon
 - [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
 - [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units.
@@ -341,7 +342,6 @@
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Thornsnake/Spectrum](https://github.com/Thornsnake/Spectrum) - Discord bot for EVE online (discontinued)
-- [greenbone/gsa](https://github.com/greenbone/gsa) - Greenbone Security Assistant - The web frontend for the Greenbone Community Edition
 - [bearlikelion/vhstatus](https://github.com/bearlikelion/vhstatus) - Valheim dedicated server status page
 - [philhawthorne/ha-dockermon](https://github.com/philhawthorne/ha-dockermon) - A NodeJS RESTful API which can be used with Home Assistant to report the state of Docker Containers
 - [Hubs-Foundation/hubs-discord-bot](https://github.com/Hubs-Foundation/hubs-discord-bot) - A Discord bot that helps you use Hubs together with people in Discord.
@@ -867,7 +867,6 @@
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [rafgraph/spa-github-pages](https://github.com/rafgraph/spa-github-pages) - Host single page apps with GitHub Pages
-- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
 - [kaakaa/slidev-resources-template](https://github.com/kaakaa/slidev-resources-template) - Template repository to manage and build slidev resources
@@ -900,6 +899,7 @@
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [microsoft/vscode-python-devicesimulator](https://github.com/microsoft/vscode-python-devicesimulator) - Device Simulator Express, a Microsoft Garage project
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) - A module-based Discord bot template.
+- [greenbone/gsa](https://github.com/greenbone/gsa) - Greenbone Security Assistant - The web frontend for the Greenbone Community Edition
 - [Androz2091/discord-backup](https://github.com/Androz2091/discord-backup) - 📦 Complete framework to facilitate server backup using discord.js v13
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [member-counter/bot](https://github.com/member-counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
