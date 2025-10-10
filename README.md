@@ -313,7 +313,7 @@
 
 ## Java 
 
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore is a self-hosted app for managing and reading books & comics (PDF, EPUB, CBZ) with metadata editing, OPDS, reading progress, and multi-user support.
+- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [OWASP-Benchmark/BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dy
 - [jeFF0Falltrades/Malware-Writeups](https://github.com/jeFF0Falltrades/Malware-Writeups) - A collection of my reverse engineering and malware analysis write-ups
 - [indeedeng/proctor](https://github.com/indeedeng/proctor) - Proctor is a Java-based A/B testing framework developed by, and used heavily within, Indeed.
