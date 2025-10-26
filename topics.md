@@ -525,7 +525,7 @@
 - [Androz2091/discord-backup](https://github.com/Androz2091/discord-backup) - 📦 Complete framework to facilitate server backup using discord.js v13
 - [DiscordHooks/travis-ci-discord-webhook](https://github.com/DiscordHooks/travis-ci-discord-webhook) - ⛓ Here's your serverless solution for sending build status from Travis CI to Discord as webhooks.
 - [member-counter/bot](https://github.com/member-counter/bot) - Member Counter is a Discord bot which lets you display counts and other dynamic information in a channel name or topic
-- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
+- [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Saves Discord chat logs to a file
 - [Nightorn/Aldebaran](https://github.com/Nightorn/Aldebaran) - Aldebaran is a cross-platform (Discord and Revolt) multi-purposes bot which offers useful features to DiscordRPG players along with many commands of all kinds, from fun to utilities.
 - [Rapptz/discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
 - [botlabs-gg/yagpdb](https://github.com/botlabs-gg/yagpdb) - Yet another general purpose discord bot
