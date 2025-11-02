@@ -81,7 +81,7 @@
 - [wrickert/UntitledElectronics](https://github.com/wrickert/UntitledElectronics) - 
 - [nmap/nmap](https://github.com/nmap/nmap) - Nmap - the Network Mapper. Github mirror of official SVN repository.
 - [sonicos/BlackBadgeRaffleBadge_DC30](https://github.com/sonicos/BlackBadgeRaffleBadge_DC30) - Free-range artisan Black Badge Raffle Badge for DEFCON 30. Now arsenic free!
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [vonnieda/esp32-example-wifi-softap-and-sta](https://github.com/vonnieda/esp32-example-wifi-softap-and-sta) - Demonstrates SoftAP + STA mode on the ESP32 with ESP-IDF.
 - [mauvehed/ahabadge](https://github.com/mauvehed/ahabadge) - AHA! badge designs
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
