@@ -1272,7 +1272,7 @@
 - [vcokltfre/tutorial-v2](https://github.com/vcokltfre/tutorial-v2) - A rewrite of my bot tutorial, updated to reflect new features in the Discord API, and new libraries.
 - [python-discord/snekbox](https://github.com/python-discord/snekbox) - Easy, safe evaluation of arbitrary Python code
 - [evilsocket/spycast](https://github.com/evilsocket/spycast) - A crossplatform mDNS enumeration tool.
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's development repository
 - [tailscale/pam](https://github.com/tailscale/pam) - An experimental, work-in-progress PAM module for Tailscale
 - [tailscale/gitops-acl-action](https://github.com/tailscale/gitops-acl-action) - GitOps for your Tailscale ACLs
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
