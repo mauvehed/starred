@@ -505,7 +505,7 @@
 - [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [woolfg/dokuwiki-plugin-gitbacked](https://github.com/woolfg/dokuwiki-plugin-gitbacked) - Plugin for DokuWiki to store/sync files and media with a git repo
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [riskbasedsecurity/VulnDB-Client-Examples](https://github.com/riskbasedsecurity/VulnDB-Client-Examples) - Example client code for use with Risk Based Security's VulnDB
 - [zteeed/dokuwiki-discord-notifier](https://github.com/zteeed/dokuwiki-discord-notifier) - Notify page events via Discord
 - [batesta/whoshere](https://github.com/batesta/whoshere) - Who's Here? - An automatic "In/Out" board for UniFi networks
