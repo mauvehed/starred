@@ -1424,7 +1424,7 @@
 - [ThreatHuntingProject/hunter](https://github.com/ThreatHuntingProject/hunter) - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
 - [dimalinux/spoofsourceip](https://github.com/dimalinux/spoofsourceip) - Golang/gopath example for spoofing UDP source IP addresses
 - [adrienbrignon/cloudflare-ddns](https://github.com/adrienbrignon/cloudflare-ddns) - A script to update your Cloudflare DNS records at a glance.
-- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
+- [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
 - [evennia/ainneve](https://github.com/evennia/ainneve) - A full example game created in Evennia (under development, anyone can help!)
 - [Experience-Monks/math-as-code](https://github.com/Experience-Monks/math-as-code) - a cheat-sheet for mathematical notation in code form
 - [ansible/ansible-container](https://github.com/ansible/ansible-container) - DEPRECATED -- Ansible Container was a tool to build Docker images and orchestrate containers using only Ansible playbooks.
