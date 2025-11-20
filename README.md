@@ -335,6 +335,7 @@
 - [cloudflare/python-worker-hello-world](https://github.com/cloudflare/python-worker-hello-world) - Python hello world for Cloudflare Workers
 - [JupiterOne/security-policy-templates](https://github.com/JupiterOne/security-policy-templates) - A set of policies, standards and control procedures with mapping to HIPAA, NIST CSF, PCI DSS, SOC2, FedRAMP, CIS Controls, and more.
 - [JupiterOne/secops-automation-examples](https://github.com/JupiterOne/secops-automation-examples) - Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.
+- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 - [mauvehed/Con-Tech-Roster-Export](https://github.com/mauvehed/Con-Tech-Roster-Export) - Automates exports from Shiftboard systems into Google Drive
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Dekita/Discord-RPC-Tool](https://github.com/Dekita/Discord-RPC-Tool) - Discord RPC Tool written by DekitaRPG
@@ -381,7 +382,6 @@
 ## MDX 
 
 - [tailscale-dev/tailscale-dev](https://github.com/tailscale-dev/tailscale-dev) - The site powering tailscale.dev
-- [discord/discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 
 ## Makefile 
 
@@ -803,7 +803,7 @@
 - [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm) - Run Tailscale on your Unifi Dream Machine
 - [itzg/docker-minecraft-bedrock-server](https://github.com/itzg/docker-minecraft-bedrock-server) - Containerized Minecraft Bedrock Dedicated Server with selectable version
 - [DiscordHooks/travis-ci-discord-webhook](https://github.com/DiscordHooks/travis-ci-discord-webhook) - ⛓ Here's your serverless solution for sending build status from Travis CI to Discord as webhooks.
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [frozenfoxx/terraform-crawl-linode](https://github.com/frozenfoxx/terraform-crawl-linode) - Deploy a DCSS server in Linode
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
 - [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.
