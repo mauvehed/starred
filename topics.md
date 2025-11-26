@@ -78,6 +78,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
 - [hacktoberfest](#hacktoberfest)
@@ -175,6 +176,7 @@
 - [vuejs](#vuejs)
 - [web](#web)
 - [web-development](#web-development)
+- [web3](#web3)
 - [webapp](#webapp)
 - [website](#website)
 - [windows](#windows)
@@ -785,6 +787,13 @@
 ## graphql 
 
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
+
+## gui 
+
+- [alexmyczko/ruptime](https://github.com/alexmyczko/ruptime) - poor man’s ruptime
+- [LogicOverSnacks/glint-release](https://github.com/LogicOverSnacks/glint-release) - 
+- [Sycnex/Windows10Debloater](https://github.com/Sycnex/Windows10Debloater) - Script to remove Windows 10 bloatware.
+- [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 
 ## hacking 
 
@@ -2037,6 +2046,10 @@
 ## web-development 
 
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
+
+## web3 
+
+- [yevh/VulnPlanet](https://github.com/yevh/VulnPlanet) - Vulnerable code snippets with fixes for Web2, Web3, API, iOS, Android and Infrastructure-as-Code (IaC)
 
 ## webapp 
 
