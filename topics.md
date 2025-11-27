@@ -34,6 +34,7 @@
 - [cloud](#cloud)
 - [code](#code)
 - [code-quality](#code-quality)
+- [command-line](#command-line)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptography](#cryptography)
@@ -413,6 +414,14 @@
 
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
+
+## command-line 
+
+- [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
+- [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
+- [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 
 ## continuous-integration 
 
