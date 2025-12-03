@@ -48,7 +48,6 @@
 - [Text](#text)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
-- [Vim Snippet](#vim-snippet)
 - [Vue](#vue)
 - [YAML](#yaml)
 - [YARA](#yara)
@@ -798,6 +797,7 @@
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [berry2012/kubernetes-the-hard-way-on-aws](https://github.com/berry2012/kubernetes-the-hard-way-on-aws) - Setup Kubernetes the hard way on AWS
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [machupicchubeta/dotfiles](https://github.com/machupicchubeta/dotfiles) - 
 - [machupicchubeta/laptop](https://github.com/machupicchubeta/laptop) - 
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [SierraSoftworks/tailscale-udm](https://github.com/SierraSoftworks/tailscale-udm) - Run Tailscale on your Unifi Dream Machine
@@ -914,10 +914,6 @@
 - [johngrib/vim-game-code-break](https://github.com/johngrib/vim-game-code-break) - Block-breaking game in vim 8.0
 - [amix/vimrc](https://github.com/amix/vimrc) - The ultimate Vim configuration (vimrc)
 - [natw/keyboard_cat.vim](https://github.com/natw/keyboard_cat.vim) - vim plugin for pretending like you can actually type
-
-## Vim Snippet 
-
-- [machupicchubeta/dotfiles](https://github.com/machupicchubeta/dotfiles) - 
 
 ## Vue 
 
