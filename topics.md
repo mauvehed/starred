@@ -1379,6 +1379,7 @@
 - [runZeroInc/rumble-api](https://github.com/runZeroInc/rumble-api) - Rumble Network Discovery API
 - [l3uddz/plex_autoscan](https://github.com/l3uddz/plex_autoscan) - Script to assist sonarr/radarr with plex imports. Will only scan the folder that has been imported, instead of the whole library section.
 - [ediskandarov-cur/home-kubernetes](https://github.com/ediskandarov-cur/home-kubernetes) - 
+- [jeFF0Falltrades/Malware-Writeups](https://github.com/jeFF0Falltrades/Malware-Writeups) - A collection of my reverse engineering and malware analysis write-ups
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features. :warning: i3-gaps has been merged into i3.
 - [evilsocket/pwngrid](https://github.com/evilsocket/pwngrid) - (⌐■_■) - API server for pwnagotchi.ai
