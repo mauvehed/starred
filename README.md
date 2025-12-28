@@ -287,7 +287,6 @@
 - [evilsocket/spycast](https://github.com/evilsocket/spycast) - A crossplatform mDNS enumeration tool.
 - [ceafin/cp2102n-esp32-programmer](https://github.com/ceafin/cp2102n-esp32-programmer) - CP2102N-A02 based USB-to-UART bridge controller for use in programming ESP32 chips and modules
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
-- [restincode/restincode](https://github.com/restincode/restincode) - A memorial site for Hackers and Infosec people who have passed
 - [attrition-org/attrition-images](https://github.com/attrition-org/attrition-images) - 
 - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [zKillboard/zKillboard](https://github.com/zKillboard/zKillboard) - Easy does it
@@ -617,6 +616,7 @@
 - [rx13/dc29-discord-signalbot](https://github.com/rx13/dc29-discord-signalbot) - A python discord client interaction emulator for the DC29 badge code channel
 - [jekyc/wig](https://github.com/jekyc/wig) - WebApp Information Gatherer
 - [dropbox/nsot](https://github.com/dropbox/nsot) - Network Source of Truth is an open source IPAM and network inventory database
+- [restincode/restincode](https://github.com/restincode/restincode) - A memorial site for Hackers and Infosec people who have passed
 - [home-assistant/operating-system](https://github.com/home-assistant/operating-system) - :beginner: Home Assistant Operating System
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [znb/Scripts](https://github.com/znb/Scripts) - General scripts for random stuff
