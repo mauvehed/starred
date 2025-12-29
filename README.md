@@ -135,6 +135,7 @@
 
 ## C++ 
 
+- [paulh002/sdrberry](https://github.com/paulh002/sdrberry) - Raspberry pi SDR tranceiver using lvgl gui
 - [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 - [g4klx/MMDVMHost](https://github.com/g4klx/MMDVMHost) - The host program for the MMDVM
 - [islandmagic/bb-link](https://github.com/islandmagic/bb-link) - B.B. Link, the BLE to Bluetooth Classic adapter for Kenwood TH-D74 / TH-D75 Radios
