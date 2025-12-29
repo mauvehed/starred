@@ -1737,6 +1737,7 @@
 
 ## raspberry-pi 
 
+- [paulh002/sdrberry](https://github.com/paulh002/sdrberry) - Raspberry pi SDR tranceiver using lvgl gui
 - [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint) - OctoPrint is the snappy web interface for your 3D printer!
 - [pi-hole/PADD](https://github.com/pi-hole/PADD) - PADD (formerly Chronometer2) is a more expansive version of the original chronometer.sh that is included with Pi-Hole. PADD provides in-depth information about your Pi-hole.
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
