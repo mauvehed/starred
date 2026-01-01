@@ -1161,6 +1161,10 @@
 
 ## others 
 
+- [OpenSourceSDRLab/PortaRF](https://github.com/OpenSourceSDRLab/PortaRF) - Custom Hardware and Firmware Bin Files for the PortaRF Gadget
+- [lmicro/hackrf-hunt](https://github.com/lmicro/hackrf-hunt) - Hackrf Signal Fox Hunting by decible level
+- [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
+- [xqtr/PySpecSDR](https://github.com/xqtr/PySpecSDR) - Python SDR Spectrum Analyzer and Signal Processor in text mode
 - [komodo-hub/komodo-hub](https://github.com/komodo-hub/komodo-hub) - 
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
 - [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
