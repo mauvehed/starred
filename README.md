@@ -137,6 +137,7 @@
 
 ## C++ 
 
+- [joelsernamoreno/EvilCrowRF-V2](https://github.com/joelsernamoreno/EvilCrowRF-V2) - 
 - [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
 - [paulh002/sdrberry](https://github.com/paulh002/sdrberry) - Raspberry pi SDR tranceiver using lvgl gui
 - [bmorcelli/Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
@@ -280,6 +281,7 @@
 
 ## HTML 
 
+- [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero) - This firmware is an alternative to the EvilCrowRF default firmware. Module: CC1101 - Compatible Flipper Zero file.
 - [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
 - [todb/CNAs](https://github.com/todb/CNAs) - A low-calorie, unofficial view of the CNA list.
 - [mauvehed/austinhackers.github.io](https://github.com/mauvehed/austinhackers.github.io) - AHA! Website Source
