@@ -1167,6 +1167,8 @@
 
 ## others 
 
+- [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero) - This firmware is an alternative to the EvilCrowRF default firmware. Module: CC1101 - Compatible Flipper Zero file.
+- [joelsernamoreno/EvilCrowRF-V2](https://github.com/joelsernamoreno/EvilCrowRF-V2) - 
 - [OpenSourceSDRLab/PortaRF](https://github.com/OpenSourceSDRLab/PortaRF) - Custom Hardware and Firmware Bin Files for the PortaRF Gadget
 - [lmicro/hackrf-hunt](https://github.com/lmicro/hackrf-hunt) - Hackrf Signal Fox Hunting by decible level
 - [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) - Records calls from a Trunked Radio System (P25 & SmartNet)
