@@ -1167,6 +1167,9 @@
 
 ## others 
 
+- [js8call/js8call](https://github.com/js8call/js8call) - Official repository for JS8Call Software
+- [JS8Call-improved/JS8Call-improved](https://github.com/JS8Call-improved/JS8Call-improved) - Active development HEAD for the JS8Call project
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero) - This firmware is an alternative to the EvilCrowRF default firmware. Module: CC1101 - Compatible Flipper Zero file.
 - [joelsernamoreno/EvilCrowRF-V2](https://github.com/joelsernamoreno/EvilCrowRF-V2) - 
 - [OpenSourceSDRLab/PortaRF](https://github.com/OpenSourceSDRLab/PortaRF) - Custom Hardware and Firmware Bin Files for the PortaRF Gadget
