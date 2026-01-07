@@ -284,6 +284,7 @@
 
 ## HTML 
 
+- [markingalls/geocaching-dashboard](https://github.com/markingalls/geocaching-dashboard) - 
 - [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero) - This firmware is an alternative to the EvilCrowRF default firmware. Module: CC1101 - Compatible Flipper Zero file.
 - [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
 - [todb/CNAs](https://github.com/todb/CNAs) - A low-calorie, unofficial view of the CNA list.
