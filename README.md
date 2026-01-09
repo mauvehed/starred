@@ -137,6 +137,7 @@
 
 ## C++ 
 
+- [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
 - [js8call/js8call](https://github.com/js8call/js8call) - Official repository for JS8Call Software
 - [JS8Call-improved/JS8Call-improved](https://github.com/JS8Call-improved/JS8Call-improved) - Active development HEAD for the JS8Call project
 - [joelsernamoreno/EvilCrowRF-V2](https://github.com/joelsernamoreno/EvilCrowRF-V2) - 
@@ -284,6 +285,7 @@
 
 ## HTML 
 
+- [craigerl/digipi](https://github.com/craigerl/digipi) - DigiPi code and config files
 - [markingalls/geocaching-dashboard](https://github.com/markingalls/geocaching-dashboard) - 
 - [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero) - This firmware is an alternative to the EvilCrowRF default firmware. Module: CC1101 - Compatible Flipper Zero file.
 - [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
@@ -546,6 +548,7 @@
 
 ## Python 
 
+- [meshcore-dev/meshcore-cli](https://github.com/meshcore-dev/meshcore-cli) - Command line interface to MeshCore node
 - [xqtr/PySpecSDR](https://github.com/xqtr/PySpecSDR) - Python SDR Spectrum Analyzer and Signal Processor in text mode
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
 - [mauvehed/kevvy](https://github.com/mauvehed/kevvy) - A Discord bot for searching the Common Vulnerabilities and Exposures (CVE) list and providing KEV updates.
@@ -780,6 +783,7 @@
 
 ## Shell 
 
+- [Zate/cc-plugins](https://github.com/Zate/cc-plugins) - 
 - [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
 - [TechMindsYT/pihpsdrmods](https://github.com/TechMindsYT/pihpsdrmods) - 
 - [nobssoftware/nocommit](https://github.com/nobssoftware/nocommit) - Prevent committing debug & private code using NOCOMMIT tags
