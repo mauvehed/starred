@@ -1168,6 +1168,7 @@
 
 ## others 
 
+- [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
 - [craigerl/digipi](https://github.com/craigerl/digipi) - DigiPi code and config files
 - [Zate/cc-plugins](https://github.com/Zate/cc-plugins) - 
 - [meshcore-dev/meshcore-cli](https://github.com/meshcore-dev/meshcore-cli) - Command line interface to MeshCore node
