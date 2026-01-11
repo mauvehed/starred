@@ -75,7 +75,7 @@
 - [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units.
 - [open-ham/OpenGD77](https://github.com/open-ham/OpenGD77) - Firmware for DMR transceivers using the NXP MK22 MCU, AT1846S RF chip and HR-C6000 DMR chipset. Including the Radioddiy GD-77, Baofeng DM-1801 and Baofeng RD-5R.
 - [flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware) - Flipper Zero firmware source code
-- [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking tutorial covering Embedded Software Development to Reverse Engineering.
+- [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking course covering Embedded Software Development to Reverse Engineering.
 - [ANDnXOR/hadbadge2019_fpgasoc](https://github.com/ANDnXOR/hadbadge2019_fpgasoc) - FPGA SoC code and application example for Hackaday Supercon 2019 badge
 - [ANDnXOR/ANDnXOR_DC24_Badge](https://github.com/ANDnXOR/ANDnXOR_DC24_Badge) - AND!XOR DEFCON 24 Badge HW and SW
 - [ANDnXOR/ANDnXOR_DC28_Badge](https://github.com/ANDnXOR/ANDnXOR_DC28_Badge) - Future home of our DC28 badge
@@ -137,6 +137,7 @@
 
 ## C++ 
 
+- [jks-prv/KiwiSDR](https://github.com/jks-prv/KiwiSDR) - KiwiSDR: BeagleBone web-accessible shortwave receiver and software-defined GPS
 - [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
 - [js8call/js8call](https://github.com/js8call/js8call) - Official repository for JS8Call Software
 - [JS8Call-improved/JS8Call-improved](https://github.com/JS8Call-improved/JS8Call-improved) - Active development HEAD for the JS8Call project
@@ -409,6 +410,8 @@
 
 ## Others 
 
+- [echosdr/echo](https://github.com/echosdr/echo) - Native iOS client for KiwiSDR and OpenWebRX. Bug tracker and Feature Requests
+- [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
 - [komodo-hub/komodo-hub](https://github.com/komodo-hub/komodo-hub) - 
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
 - [FiloSottile/awesome-age](https://github.com/FiloSottile/awesome-age) - A collection of projects and resources in the age file encryption ecosystem.
