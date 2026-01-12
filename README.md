@@ -67,6 +67,9 @@
 
 ## C 
 
+- [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
+- [kamilsss655/ESPRI](https://github.com/kamilsss655/ESPRI) - ESPRI (ESP Radio Interface) project providing extended functionalities to ham radios
+- [nakhonthai/ESP32APRS_Audio](https://github.com/nakhonthai/ESP32APRS_Audio) - ESP32APRS is a APRS Internet Gateway + TNC Built In that is implemented for Espressif ESP32 processor.
 - [OpenSourceSDRLab/PortaRF](https://github.com/OpenSourceSDRLab/PortaRF) - Custom Hardware and Firmware Bin Files for the PortaRF Gadget
 - [lmicro/hackrf-hunt](https://github.com/lmicro/hackrf-hunt) - Hackrf Signal Fox Hunting by decible level
 - [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely
@@ -125,6 +128,7 @@
 
 ## C# # 
 
+- [Ylianst/HTCommander](https://github.com/Ylianst/HTCommander) - HAM Radio control tool for the UV-Pro, GA-5WB, VR-N76, VR-N7500 radios. Allows for easy control over your radio and APRS messaging.
 - [valheimPlus/ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
@@ -197,6 +201,7 @@
 
 ## Go 
 
+- [flwyd/adif-multitool](https://github.com/flwyd/adif-multitool) - Validate, modify, and convert ham radio log files with a handy command-line tool. 📻🌳🪓
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -321,9 +326,12 @@
 ## JSON 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 
 ## Java 
 
+- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
+- [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [OWASP-Benchmark/BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava) - OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dy
 - [jeFF0Falltrades/Malware-Writeups](https://github.com/jeFF0Falltrades/Malware-Writeups) - A collection of my reverse engineering and malware analysis write-ups
@@ -333,6 +341,8 @@
 
 ## JavaScript 
 
+- [hemna/aprsd-admin-extension](https://github.com/hemna/aprsd-admin-extension) - Extension to APRSD for the admin commands and web interface.
+- [oliverbross/dx-cluster-web](https://github.com/oliverbross/dx-cluster-web) - 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [OctoFarm/OctoFarm](https://github.com/OctoFarm/OctoFarm) - OctoFarm is an  web server and client combination for unifying multiple instances of Octoprint. You can manage and monitor as many instances as you want from a single interface giving you full control
 - [SpaceTradersAPI/api-docs](https://github.com/SpaceTradersAPI/api-docs) - The API documentation for the SpaceTraders API
@@ -350,7 +360,6 @@
 - [mauvehed/Con-Tech-Roster-Export](https://github.com/mauvehed/Con-Tech-Roster-Export) - Automates exports from Shiftboard systems into Google Drive
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Dekita/Discord-RPC-Tool](https://github.com/Dekita/Discord-RPC-Tool) - Discord RPC Tool written by DekitaRPG
-- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Thornsnake/Spectrum](https://github.com/Thornsnake/Spectrum) - Discord bot for EVE online (discontinued)
 - [bearlikelion/vhstatus](https://github.com/bearlikelion/vhstatus) - Valheim dedicated server status page
@@ -410,7 +419,8 @@
 
 ## Others 
 
-- [echosdr/echo](https://github.com/echosdr/echo) - Native iOS client for KiwiSDR and OpenWebRX. Bug tracker and Feature Requests
+- [wb2osz/aprsspec](https://github.com/wb2osz/aprsspec) - The APRS Documentation Project: APRS Protocol Specification 1.2, Understanding APRS Packets, How to Get Started in APRS, The Best APRS Presentations, etc.
+- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR & OpenWebRX networks. Bug tracker and feature requests
 - [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
 - [komodo-hub/komodo-hub](https://github.com/komodo-hub/komodo-hub) - 
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
@@ -515,6 +525,7 @@
 
 ## PHP 
 
+- [allebb/pirrot](https://github.com/allebb/pirrot) - A radio repeater controller (supporting both simplex and duplex operation modes) for the RaspberryPi.
 - [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [woolfg/dokuwiki-plugin-gitbacked](https://github.com/woolfg/dokuwiki-plugin-gitbacked) - Plugin for DokuWiki to store/sync files and media with a git repo
@@ -551,6 +562,13 @@
 
 ## Python 
 
+- [luarvique/openwebrx](https://github.com/luarvique/openwebrx) - Open source, multi-user SDR receiver software with a web interface
+- [9M2PJU/9M2PJU-APRS-Thursday-Check-In-Bot](https://github.com/9M2PJU/9M2PJU-APRS-Thursday-Check-In-Bot) - A lightweight, fully-automated APRS bot that checks in to the global #APRSThursday net every Thursday.
+- [9M2PJU/9M2PJU-Easy-APRS-IS-Beacon-and-Object](https://github.com/9M2PJU/9M2PJU-Easy-APRS-IS-Beacon-and-Object) - This tool allows amateur radio operators to easily broadcast multiple APRS objects (such as temporary repeaters, events, balloons, or custom locations) to the APRS-IS network.
+- [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
+- [craigerl/aprsd](https://github.com/craigerl/aprsd) - Amateur radio APRS daemon which listens for messages and responds.  By KM6LYW.
+- [richonguzman/LoRa_APRS_iGate](https://github.com/richonguzman/LoRa_APRS_iGate) - LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities
+- [coulisse/spiderweb](https://github.com/coulisse/spiderweb) - Web Interface for DXSpider hamradio cluster
 - [meshcore-dev/meshcore-cli](https://github.com/meshcore-dev/meshcore-cli) - Command line interface to MeshCore node
 - [xqtr/PySpecSDR](https://github.com/xqtr/PySpecSDR) - Python SDR Spectrum Analyzer and Signal Processor in text mode
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
@@ -786,6 +804,7 @@
 
 ## Shell 
 
+- [sdr-enthusiasts/docker-aprs-tracker](https://github.com/sdr-enthusiasts/docker-aprs-tracker) - Ham Radio APRS tracker container  based on DireWolf (APRS software TNC), Chrony, and GPSD
 - [Zate/cc-plugins](https://github.com/Zate/cc-plugins) - 
 - [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
 - [TechMindsYT/pihpsdrmods](https://github.com/TechMindsYT/pihpsdrmods) - 
@@ -880,6 +899,7 @@
 
 ## TypeScript 
 
+- [SQ2CPA/aprs-tnc-web](https://github.com/SQ2CPA/aprs-tnc-web) - APRS TNC Web app
 - [crocofied/CoreControl](https://github.com/crocofied/CoreControl) - Dashboard to manage your entire server infrastructure
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
