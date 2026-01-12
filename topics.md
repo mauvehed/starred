@@ -243,6 +243,7 @@
 
 ## arduino 
 
+- [richonguzman/LoRa_APRS_iGate](https://github.com/richonguzman/LoRa_APRS_iGate) - LoRa APRS iGATE for ESP32 Based Board with Rx + Tx capabilities
 - [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [forkineye/ESPixelStick](https://github.com/forkineye/ESPixelStick) - Firmware for the ESPixelStick
@@ -332,6 +333,7 @@
 
 ## bootstrap 
 
+- [coulisse/spiderweb](https://github.com/coulisse/spiderweb) - Web Interface for DXSpider hamradio cluster
 - [peterthehan/create-discord-bot](https://github.com/peterthehan/create-discord-bot) - A module-based Discord bot template.
 
 ## bot 
@@ -353,6 +355,7 @@
 
 ## c 
 
+- [kamilsss655/ESPRI](https://github.com/kamilsss655/ESPRI) - ESPRI (ESP Radio Interface) project providing extended functionalities to ham radios
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking course covering Embedded Software Development to Reverse Engineering.
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
@@ -635,6 +638,7 @@
 
 ## education 
 
+- [hneemann/Digital](https://github.com/hneemann/Digital) - A digital logic designer and circuit simulator.
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [Netflix-Skunkworks/stethoscope](https://github.com/Netflix-Skunkworks/stethoscope) - Personalized, user-focused recommendations for employee information security.
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
@@ -647,6 +651,7 @@
 
 ## embedded 
 
+- [kamilsss655/ESPRI](https://github.com/kamilsss655/ESPRI) - ESPRI (ESP Radio Interface) project providing extended functionalities to ham radios
 - [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking course covering Embedded Software Development to Reverse Engineering.
 - [platformio/platformio-core](https://github.com/platformio/platformio-core) - Your Gateway to Embedded Software Development Excellence :alien:
 - [adafruit/awesome-circuitpython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
@@ -666,6 +671,7 @@
 
 ## flask 
 
+- [coulisse/spiderweb](https://github.com/coulisse/spiderweb) - Web Interface for DXSpider hamradio cluster
 - [mauvehed/yourip](https://github.com/mauvehed/yourip) - A simple web site to return yourIP
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 
@@ -829,6 +835,7 @@
 
 ## hacktoberfest 
 
+- [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -1103,6 +1110,7 @@
 
 ## mysql 
 
+- [coulisse/spiderweb](https://github.com/coulisse/spiderweb) - Web Interface for DXSpider hamradio cluster
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
@@ -1155,6 +1163,7 @@
 
 ## open-source 
 
+- [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [jks-prv/KiwiSDR](https://github.com/jks-prv/KiwiSDR) - KiwiSDR: BeagleBone web-accessible shortwave receiver and software-defined GPS
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
@@ -1169,7 +1178,22 @@
 
 ## others 
 
-- [echosdr/echo](https://github.com/echosdr/echo) - Native iOS client for KiwiSDR and OpenWebRX. Bug tracker and Feature Requests
+- [luarvique/openwebrx](https://github.com/luarvique/openwebrx) - Open source, multi-user SDR receiver software with a web interface
+- [9M2PJU/9M2PJU-APRS-Thursday-Check-In-Bot](https://github.com/9M2PJU/9M2PJU-APRS-Thursday-Check-In-Bot) - A lightweight, fully-automated APRS bot that checks in to the global #APRSThursday net every Thursday.
+- [9M2PJU/9M2PJU-Easy-APRS-IS-Beacon-and-Object](https://github.com/9M2PJU/9M2PJU-Easy-APRS-IS-Beacon-and-Object) - This tool allows amateur radio operators to easily broadcast multiple APRS objects (such as temporary repeaters, events, balloons, or custom locations) to the APRS-IS network.
+- [SQ2CPA/aprs-tnc-web](https://github.com/SQ2CPA/aprs-tnc-web) - APRS TNC Web app
+- [Ylianst/HTCommander](https://github.com/Ylianst/HTCommander) - HAM Radio control tool for the UV-Pro, GA-5WB, VR-N76, VR-N7500 radios. Allows for easy control over your radio and APRS messaging.
+- [endurain-project/endurain](https://github.com/endurain-project/endurain) - Endurain is a self-hosted fitness tracking service designed to give users full control over their data and hosting environment
+- [sdr-enthusiasts/docker-aprs-tracker](https://github.com/sdr-enthusiasts/docker-aprs-tracker) - Ham Radio APRS tracker container  based on DireWolf (APRS software TNC), Chrony, and GPSD
+- [hemna/aprsd-admin-extension](https://github.com/hemna/aprsd-admin-extension) - Extension to APRSD for the admin commands and web interface.
+- [craigerl/aprsd](https://github.com/craigerl/aprsd) - Amateur radio APRS daemon which listens for messages and responds.  By KM6LYW.
+- [allebb/pirrot](https://github.com/allebb/pirrot) - A radio repeater controller (supporting both simplex and duplex operation modes) for the RaspberryPi.
+- [flwyd/adif-multitool](https://github.com/flwyd/adif-multitool) - Validate, modify, and convert ham radio log files with a handy command-line tool. 📻🌳🪓
+- [wb2osz/aprsspec](https://github.com/wb2osz/aprsspec) - The APRS Documentation Project: APRS Protocol Specification 1.2, Understanding APRS Packets, How to Get Started in APRS, The Best APRS Presentations, etc.
+- [nakhonthai/ESP32APRS_Audio](https://github.com/nakhonthai/ESP32APRS_Audio) - ESP32APRS is a APRS Internet Gateway + TNC Built In that is implemented for Espressif ESP32 processor.
+- [oliverbross/dx-cluster-web](https://github.com/oliverbross/dx-cluster-web) - 
+- [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
+- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR & OpenWebRX networks. Bug tracker and feature requests
 - [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
 - [craigerl/digipi](https://github.com/craigerl/digipi) - DigiPi code and config files
 - [Zate/cc-plugins](https://github.com/Zate/cc-plugins) - 
@@ -1682,6 +1706,7 @@
 
 ## python 
 
+- [coulisse/spiderweb](https://github.com/coulisse/spiderweb) - Web Interface for DXSpider hamradio cluster
 - [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
 - [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
