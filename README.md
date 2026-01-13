@@ -266,7 +266,7 @@
 - [dimalinux/spoofsourceip](https://github.com/dimalinux/spoofsourceip) - Golang/gopath example for spoofing UDP source IP addresses
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
-- [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Certificate Transparency Log Monitor
+- [SSLMate/certspotter](https://github.com/SSLMate/certspotter) - Lightweight Certificate Transparency Log Monitor
 - [slackhq/go-audit](https://github.com/slackhq/go-audit) - go-audit is an alternative to the auditd daemon that ships with many distros
 - [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Unified ingress for developers
 - [discordianfish/docker-backup](https://github.com/discordianfish/docker-backup) - Tool for backing up docker volume / data containers
