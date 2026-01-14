@@ -1179,6 +1179,8 @@
 
 ## others 
 
+- [Stachugit/MeshCore-Cardputer-ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) - 
+- [lokesh-sg/cert-automator](https://github.com/lokesh-sg/cert-automator) - The Centralized "Vault" that Solves the Pain of Certificate Renewals.
 - [luarvique/openwebrx](https://github.com/luarvique/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [9M2PJU/9M2PJU-APRS-Thursday-Check-In-Bot](https://github.com/9M2PJU/9M2PJU-APRS-Thursday-Check-In-Bot) - A lightweight, fully-automated APRS bot that checks in to the global #APRSThursday net every Thursday.
 - [9M2PJU/9M2PJU-Easy-APRS-IS-Beacon-and-Object](https://github.com/9M2PJU/9M2PJU-Easy-APRS-IS-Beacon-and-Object) - This tool allows amateur radio operators to easily broadcast multiple APRS objects (such as temporary repeaters, events, balloons, or custom locations) to the APRS-IS network.
@@ -1194,7 +1196,7 @@
 - [nakhonthai/ESP32APRS_Audio](https://github.com/nakhonthai/ESP32APRS_Audio) - ESP32APRS is a APRS Internet Gateway + TNC Built In that is implemented for Espressif ESP32 processor.
 - [oliverbross/dx-cluster-web](https://github.com/oliverbross/dx-cluster-web) - 
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
-- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR & OpenWebRX networks. Bug tracker and feature requests
+- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR & OpenWebRX networks.
 - [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
 - [craigerl/digipi](https://github.com/craigerl/digipi) - DigiPi code and config files
 - [Zate/cc-plugins](https://github.com/Zate/cc-plugins) - 
