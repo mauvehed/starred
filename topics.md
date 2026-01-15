@@ -1823,6 +1823,7 @@
 ## reverse-engineering 
 
 - [e-m-b-a/emba](https://github.com/e-m-b-a/emba) - EMBA - The firmware security analyzer
+- [mytechnotalent/Embedded-Hacking](https://github.com/mytechnotalent/Embedded-Hacking) - A FREE comprehensive step-by-step embedded hacking course covering Embedded Software Development to Reverse Engineering.
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg) - Exploit Development and Reverse Engineering with GDB & LLDB Made Easy
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
