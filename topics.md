@@ -1179,6 +1179,9 @@
 
 ## others 
 
+- [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
+- [rightup/pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) - A lightweight Repeater Daemon implemented in Python, built using the pymc_core library.
+- [sosprz/meshcore-cardputer-adv](https://github.com/sosprz/meshcore-cardputer-adv) - meshcore client for cardputer adv
 - [Stachugit/MeshCore-Cardputer-ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) - 
 - [lokesh-sg/cert-automator](https://github.com/lokesh-sg/cert-automator) - The Centralized "Vault" that Solves the Pain of Certificate Renewals.
 - [luarvique/openwebrx](https://github.com/luarvique/openwebrx) - Open source, multi-user SDR receiver software with a web interface
