@@ -67,6 +67,7 @@
 
 ## C 
 
+- [sosprz/meshcore-cardputer-adv](https://github.com/sosprz/meshcore-cardputer-adv) - meshcore client for cardputer adv
 - [Stachugit/MeshCore-Cardputer-ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) - 
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [kamilsss655/ESPRI](https://github.com/kamilsss655/ESPRI) - ESPRI (ESP Radio Interface) project providing extended functionalities to ham radios
@@ -420,6 +421,7 @@
 
 ## Others 
 
+- [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
 - [wb2osz/aprsspec](https://github.com/wb2osz/aprsspec) - The APRS Documentation Project: APRS Protocol Specification 1.2, Understanding APRS Packets, How to Get Started in APRS, The Best APRS Presentations, etc.
 - [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR & OpenWebRX networks.
 - [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
@@ -563,6 +565,7 @@
 
 ## Python 
 
+- [rightup/pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) - A lightweight Repeater Daemon implemented in Python, built using the pymc_core library.
 - [lokesh-sg/cert-automator](https://github.com/lokesh-sg/cert-automator) - The Centralized "Vault" that Solves the Pain of Certificate Renewals.
 - [luarvique/openwebrx](https://github.com/luarvique/openwebrx) - Open source, multi-user SDR receiver software with a web interface
 - [9M2PJU/9M2PJU-APRS-Thursday-Check-In-Bot](https://github.com/9M2PJU/9M2PJU-APRS-Thursday-Check-In-Bot) - A lightweight, fully-automated APRS bot that checks in to the global #APRSThursday net every Thursday.
