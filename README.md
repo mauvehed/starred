@@ -386,6 +386,7 @@
 
 ## Jinja 
 
+- [jekhokie/raspberry-noaa-v2](https://github.com/jekhokie/raspberry-noaa-v2) - V2 of the fantastic Raspberry Pi NOAA setup
 - [stefangweichinger/ansible-rclone](https://github.com/stefangweichinger/ansible-rclone) - ansible role for rclone :: https://galaxy.ansible.com/stefangweichinger/ansible_rclone
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 
