@@ -310,7 +310,6 @@
 - [ceafin/cp2102n-esp32-programmer](https://github.com/ceafin/cp2102n-esp32-programmer) - CP2102N-A02 based USB-to-UART bridge controller for use in programming ESP32 chips and modules
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [attrition-org/attrition-images](https://github.com/attrition-org/attrition-images) - 
-- [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [zKillboard/zKillboard](https://github.com/zKillboard/zKillboard) - Easy does it
 - [lostpolicymaker/lostpolicymaker.github.io](https://github.com/lostpolicymaker/lostpolicymaker.github.io) - Attending BSides Las Vegas, Black Hat, and/or DEF CON for the first time this year and feeling confused or overwhelmed? The Lost Policymaker's Guide to Hacker Summer Camp is a tongue-in-cheek nod to a
 - [dev-sec/ansible-ssh-hardening](https://github.com/dev-sec/ansible-ssh-hardening) - This Ansible role provides numerous security-related ssh configurations, providing all-round base protection.
@@ -395,6 +394,7 @@
 ## Jupyter Notebook 
 
 - [FIRSTdotorg/epss](https://github.com/FIRSTdotorg/epss) - Exploit Prediction Scoring System (EPSS)
+- [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK) - The Hunting ELK
 - [ThreatHuntingProject/hunter](https://github.com/ThreatHuntingProject/hunter) - A threat hunting / data analysis environment based on Python, Pandas, PySpark and Jupyter Notebook.
 - [SuperCowPowers/zat](https://github.com/SuperCowPowers/zat) - Zeek Analysis Tools (ZAT):  Processing and analysis of Zeek network data with Pandas, scikit-learn, Kafka and Spark
@@ -553,6 +553,7 @@
 
 ## Perl 
 
+- [9M2PJU/9M2PJU-DXSpider-Docker](https://github.com/9M2PJU/9M2PJU-DXSpider-Docker) - Transforming DXSpider deployment into a seamless Docker experience for the global amateur radio community 📡
 - [robinsmidsrod/unifi-controller-cli](https://github.com/robinsmidsrod/unifi-controller-cli) - UniFi controller CLI for API
 - [owasp-modsecurity/ModSecurity-apache](https://github.com/owasp-modsecurity/ModSecurity-apache) - ModSecurity v3 Apache Connector
 - [inverse-inc/packetfence](https://github.com/inverse-inc/packetfence) - PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, c
