@@ -568,6 +568,7 @@
 
 ## docker 
 
+- [9M2PJU/9M2PJU-DXSpider-Docker](https://github.com/9M2PJU/9M2PJU-DXSpider-Docker) - Transforming DXSpider deployment into a seamless Docker experience for the global amateur radio community 📡
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
 - [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
