@@ -105,6 +105,7 @@
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
+- [malware](#malware)
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
@@ -752,7 +753,7 @@
 ## go 
 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -780,7 +781,7 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [vulncheck-oss/sdk](https://github.com/vulncheck-oss/sdk) - Bring the VulnCheck API to your Go applications.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -1014,7 +1015,7 @@
 
 ## llm 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
 ## low-code 
@@ -1050,6 +1051,17 @@
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+
+## malware 
+
+- [hagezi/dns-blocklists](https://github.com/hagezi/dns-blocklists) - DNS-Blocklists: For a better internet - keep the internet clean!
+- [yokoffing/NextDNS-Config](https://github.com/yokoffing/NextDNS-Config) - Setup guide for NextDNS, a DoH proxy with advanced capabilities
+- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
+- [vxunderground/VX-API](https://github.com/vxunderground/VX-API) - Collection of various malicious functionality to aid in malware development
+- [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
+- [JusticeRage/Manalyze](https://github.com/JusticeRage/Manalyze) - A static analyzer for PE executables.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
+- [mitre/multiscanner](https://github.com/mitre/multiscanner) - Modular file scanning/analysis framework
 
 ## markdown 
 
@@ -1347,8 +1359,6 @@
 - [rapid7/insightvm-sql-queries](https://github.com/rapid7/insightvm-sql-queries) - InsightVM helpful SQL queries
 - [Zate/HashHound](https://github.com/Zate/HashHound) - Tracking Top Hashtags Over Time
 - [Zate/mastocrawl](https://github.com/Zate/mastocrawl) - Crawl the Mastodon Fediverse gathering server info.
-- [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
-- [vxunderground/VX-API](https://github.com/vxunderground/VX-API) - Collection of various malicious functionality to aid in malware development
 - [bpython/bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [HDVinnie/TrackerHub](https://github.com/HDVinnie/TrackerHub) - Monitor tracker uptime
@@ -1522,7 +1532,6 @@
 - [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [hackforsatan/devilbadge](https://github.com/hackforsatan/devilbadge) - Status: summoned and unleashed upon DEF CON 25
 - [netik/chibios-orchard](https://github.com/netik/chibios-orchard) - A port of ChibiOS for the Freescale MKW01, based on the Orchard Code, for a custom wearable Defcon25 Badge
-- [JusticeRage/Manalyze](https://github.com/JusticeRage/Manalyze) - A static analyzer for PE executables.
 - [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
 - [slackhq/go-audit](https://github.com/slackhq/go-audit) - go-audit is an alternative to the auditd daemon that ships with many distros
 - [Hexxeh/rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
