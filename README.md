@@ -569,6 +569,7 @@
 
 ## Python 
 
+- [EmDecay/rf-filter-calculator](https://github.com/EmDecay/rf-filter-calculator) - A command-line tool for calculating LC filter component values. Designed for RF engineers and amateur radio operators.
 - [rightup/pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) - A lightweight Repeater Daemon implemented in Python, built using the pymc_core library.
 - [lokesh-sg/cert-automator](https://github.com/lokesh-sg/cert-automator) - The Centralized "Vault" that Solves the Pain of Certificate Renewals.
 - [luarvique/openwebrx](https://github.com/luarvique/openwebrx) - Open source, multi-user SDR receiver software with a web interface
@@ -790,6 +791,7 @@
 
 ## Rust 
 
+- [modernham/HamRPG](https://github.com/modernham/HamRPG) - A multiplayer ham radio game that uses a software TNC as it's connection method.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
