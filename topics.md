@@ -1192,6 +1192,8 @@
 
 ## others 
 
+- [EmDecay/rf-filter-calculator](https://github.com/EmDecay/rf-filter-calculator) - A command-line tool for calculating LC filter component values. Designed for RF engineers and amateur radio operators.
+- [modernham/HamRPG](https://github.com/modernham/HamRPG) - A multiplayer ham radio game that uses a software TNC as it's connection method.
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 - [Uppitydowney/morsekeyboard](https://github.com/Uppitydowney/morsekeyboard) - morse mania key
 - [jekhokie/raspberry-noaa-v2](https://github.com/jekhokie/raspberry-noaa-v2) - V2 of the fantastic Raspberry Pi NOAA setup
