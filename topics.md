@@ -531,7 +531,6 @@
 
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [mauvehed/kevvy](https://github.com/mauvehed/kevvy) - A Discord bot for searching the Common Vulnerabilities and Exposures (CVE) list and providing KEV updates.
-- [mauvehed/trackerstatus_discord](https://github.com/mauvehed/trackerstatus_discord) - A Discord bot that monitors the status of various private trackers and sends notifications when their status changes.
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
 - [Notifiarr/notifiarr](https://github.com/Notifiarr/notifiarr) - Client for Notifiarr.com
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
@@ -1192,6 +1191,8 @@
 
 ## others 
 
+- [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
+- [ai6ym/PicoFox](https://github.com/ai6ym/PicoFox) - The open source fox transmitter.
 - [EmDecay/rf-filter-calculator](https://github.com/EmDecay/rf-filter-calculator) - A command-line tool for calculating LC filter component values. Designed for RF engineers and amateur radio operators.
 - [modernham/HamRPG](https://github.com/modernham/HamRPG) - A multiplayer ham radio game that uses a software TNC as it's connection method.
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
@@ -1741,7 +1742,6 @@
 - [thegeekyb0y/learnpython](https://github.com/thegeekyb0y/learnpython) - Python Resources for Everyone
 - [ccie18643/PyTCP](https://github.com/ccie18643/PyTCP) - PyTCP is a fully functional TCP/IP stack written in Python. It supports TCP stream-based transport with reliable packet delivery based on a sliding window mechanism and basic congestion control. It al
 - [pushingkarmaorg/python-plexapi](https://github.com/pushingkarmaorg/python-plexapi) - Python bindings for the Plex API.
-- [mauvehed/trackerstatus](https://github.com/mauvehed/trackerstatus) - A Python library for interacting with trackerstatus.info API.
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) - 🐳  Docker Image of NetBox
 - [python-discord/bot](https://github.com/python-discord/bot) - The community bot for the Python Discord community
