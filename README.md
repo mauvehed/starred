@@ -67,6 +67,7 @@
 
 ## C 
 
+- [ai6ym/PicoFox](https://github.com/ai6ym/PicoFox) - The open source fox transmitter.
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
 - [sosprz/meshcore-cardputer-adv](https://github.com/sosprz/meshcore-cardputer-adv) - meshcore client for cardputer adv
 - [Stachugit/MeshCore-Cardputer-ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) - 
@@ -144,6 +145,7 @@
 
 ## C++ 
 
+- [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
 - [Uppitydowney/morsekeyboard](https://github.com/Uppitydowney/morsekeyboard) - morse mania key
 - [jks-prv/KiwiSDR](https://github.com/jks-prv/KiwiSDR) - KiwiSDR: BeagleBone web-accessible shortwave receiver and software-defined GPS
 - [cifertech/ESP32-DIV](https://github.com/cifertech/ESP32-DIV) - ESP32DIV is a multi-purpose wireless testing toolkit powered by an ESP32
@@ -583,7 +585,6 @@
 - [xqtr/PySpecSDR](https://github.com/xqtr/PySpecSDR) - Python SDR Spectrum Analyzer and Signal Processor in text mode
 - [Salvoxia/immich-folder-album-creator](https://github.com/Salvoxia/immich-folder-album-creator) - Automatically create and populate albums in Immich from a folder structure in external libraries
 - [mauvehed/kevvy](https://github.com/mauvehed/kevvy) - A Discord bot for searching the Common Vulnerabilities and Exposures (CVE) list and providing KEV updates.
-- [mauvehed/trackerstatus_discord](https://github.com/mauvehed/trackerstatus_discord) - A Discord bot that monitors the status of various private trackers and sends notifications when their status changes.
 - [HBLink-org/hblink3](https://github.com/HBLink-org/hblink3) - HBlink for Python3
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
@@ -625,7 +626,6 @@
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [bpython/bpython](https://github.com/bpython/bpython) - bpython - A fancy curses interface to the Python interactive interpreter
 - [pushingkarmaorg/python-plexapi](https://github.com/pushingkarmaorg/python-plexapi) - Python bindings for the Plex API.
-- [mauvehed/trackerstatus](https://github.com/mauvehed/trackerstatus) - A Python library for interacting with trackerstatus.info API.
 - [drdanio/eve-simple-esi](https://github.com/drdanio/eve-simple-esi) - The Python 3+ library for simple and fast work with https://esi.evetech.net data.
 - [ntt/eveapi](https://github.com/ntt/eveapi) - Python library for accessing the EVE Online API
 - [juliomalegria/python-craigslist](https://github.com/juliomalegria/python-craigslist) - Simple Craigslist wrapper
