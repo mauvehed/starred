@@ -944,6 +944,7 @@
 
 ## javascript 
 
+- [andreaspeters/enyojs-hamdashboard](https://github.com/andreaspeters/enyojs-hamdashboard) - HAM Radio Dashboard for Chrome Browser or WebOS Based devices.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
@@ -1191,6 +1192,7 @@
 
 ## others 
 
+- [pomtom44/GlanceRF](https://github.com/pomtom44/GlanceRF) - 
 - [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
 - [ai6ym/PicoFox](https://github.com/ai6ym/PicoFox) - The open source fox transmitter.
 - [EmDecay/rf-filter-calculator](https://github.com/EmDecay/rf-filter-calculator) - A command-line tool for calculating LC filter component values. Designed for RF engineers and amateur radio operators.
