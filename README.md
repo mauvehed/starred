@@ -346,6 +346,7 @@
 
 ## JavaScript 
 
+- [andreaspeters/enyojs-hamdashboard](https://github.com/andreaspeters/enyojs-hamdashboard) - HAM Radio Dashboard for Chrome Browser or WebOS Based devices.
 - [hemna/aprsd-admin-extension](https://github.com/hemna/aprsd-admin-extension) - Extension to APRSD for the admin commands and web interface.
 - [oliverbross/dx-cluster-web](https://github.com/oliverbross/dx-cluster-web) - 
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -571,6 +572,7 @@
 
 ## Python 
 
+- [pomtom44/GlanceRF](https://github.com/pomtom44/GlanceRF) - 
 - [EmDecay/rf-filter-calculator](https://github.com/EmDecay/rf-filter-calculator) - A command-line tool for calculating LC filter component values. Designed for RF engineers and amateur radio operators.
 - [rightup/pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) - A lightweight Repeater Daemon implemented in Python, built using the pymc_core library.
 - [lokesh-sg/cert-automator](https://github.com/lokesh-sg/cert-automator) - The Centralized "Vault" that Solves the Pain of Certificate Renewals.
