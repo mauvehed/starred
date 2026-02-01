@@ -568,6 +568,7 @@
 
 ## docker 
 
+- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) - Self-hosted performance optimization and security audit tool for UniFi Networks. Includes advanced DNS, VLAN, and firewall security checks, centralized LAN speed test server w/ Layer 2 tracing, U5G-Ma
 - [9M2PJU/9M2PJU-DXSpider-Docker](https://github.com/9M2PJU/9M2PJU-DXSpider-Docker) - Transforming DXSpider deployment into a seamless Docker experience for the global amateur radio community 📡
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
 - [Mafyuh/iac](https://github.com/Mafyuh/iac) - GitOps-driven Infrastructure as Code for my homelab
@@ -1220,7 +1221,7 @@
 - [nakhonthai/ESP32APRS_Audio](https://github.com/nakhonthai/ESP32APRS_Audio) - ESP32APRS is a APRS Internet Gateway + TNC Built In that is implemented for Espressif ESP32 processor.
 - [oliverbross/dx-cluster-web](https://github.com/oliverbross/dx-cluster-web) - 
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
-- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR & OpenWebRX networks.
+- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, & FM-DX networks.
 - [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
 - [craigerl/digipi](https://github.com/craigerl/digipi) - DigiPi code and config files
 - [Zate/cc-plugins](https://github.com/Zate/cc-plugins) - 
@@ -1960,6 +1961,7 @@
 
 ## self-hosted 
 
+- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) - Self-hosted performance optimization and security audit tool for UniFi Networks. Includes advanced DNS, VLAN, and firewall security checks, centralized LAN speed test server w/ Layer 2 tracing, U5G-Ma
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
