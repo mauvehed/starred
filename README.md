@@ -132,6 +132,7 @@
 
 ## C# # 
 
+- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) - Self-hosted performance optimization and security audit tool for UniFi Networks. Includes advanced DNS, VLAN, and firewall security checks, centralized LAN speed test server w/ Layer 2 tracing, U5G-Ma
 - [Ylianst/HTCommander](https://github.com/Ylianst/HTCommander) - HAM Radio control tool for the UV-Pro, GA-5WB, VR-N76, VR-N7500 radios. Allows for easy control over your radio and APRS messaging.
 - [valheimPlus/ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
@@ -429,7 +430,7 @@
 
 - [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
 - [wb2osz/aprsspec](https://github.com/wb2osz/aprsspec) - The APRS Documentation Project: APRS Protocol Specification 1.2, Understanding APRS Packets, How to Get Started in APRS, The Best APRS Presentations, etc.
-- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR & OpenWebRX networks.
+- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, & FM-DX networks.
 - [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
 - [komodo-hub/komodo-hub](https://github.com/komodo-hub/komodo-hub) - 
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
