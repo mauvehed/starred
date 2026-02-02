@@ -183,6 +183,7 @@
 ## CSS 
 
 - [red-team-offense-village/website](https://github.com/red-team-offense-village/website) - New RTV website
+- [mauvehed/austinhackers.github.io](https://github.com/mauvehed/austinhackers.github.io) - AHA! Website Source
 - [AustinHackers/austinhackers.github.io](https://github.com/AustinHackers/austinhackers.github.io) - AHA! Website Source
 - [Zate/poedom](https://github.com/Zate/poedom) - 
 - [Chalarangelo/mini.css](https://github.com/Chalarangelo/mini.css) - A minimal, responsive, style-agnostic CSS framework!
@@ -219,7 +220,7 @@
 - [vulncheck-oss/cli](https://github.com/vulncheck-oss/cli) - VulnCheck's official command line tool
 - [vulncheck-oss/sdk](https://github.com/vulncheck-oss/sdk) - Bring the VulnCheck API to your Go applications.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [Schachte/cloudflare-stream-downloader](https://github.com/Schachte/cloudflare-stream-downloader) - Download tool for Cloudflare Stream
 - [amlweems/xzbot](https://github.com/amlweems/xzbot) - notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
@@ -303,7 +304,6 @@
 - [h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero](https://github.com/h-RAT/EvilCrowRF_Custom_Firmware_CC1101_FlipperZero) - This firmware is an alternative to the EvilCrowRF default firmware. Module: CC1101 - Compatible Flipper Zero file.
 - [pa3gsb/Radioberry-2.x](https://github.com/pa3gsb/Radioberry-2.x) - Ham Radio hat for Raspberry PI
 - [todb/CNAs](https://github.com/todb/CNAs) - A low-calorie, unofficial view of the CNA list.
-- [mauvehed/austinhackers.github.io](https://github.com/mauvehed/austinhackers.github.io) - AHA! Website Source
 - [HackersAssociation/HackersAssociation.org](https://github.com/HackersAssociation/HackersAssociation.org) - The HackersAssociation.org website
 - [contechcrew/contechcrew.github.io](https://github.com/contechcrew/contechcrew.github.io) - 
 - [projectdiscovery/nuclei-docs](https://github.com/projectdiscovery/nuclei-docs) - Nuclei documentation
@@ -473,6 +473,7 @@
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
 - [TalEliyahu/awesome-CISO-maturity-models](https://github.com/TalEliyahu/awesome-CISO-maturity-models) - Maturity models help integrate traditionally separate organizational functions, set process improvement goals and priorities, provide guidance for quality processes, and provide benchmark for appraisi
 - [rapid7/insightvm-sql-queries](https://github.com/rapid7/insightvm-sql-queries) - InsightVM helpful SQL queries
+- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [realpython/list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers) - List of Python API Wrappers and Libraries
 - [vcokltfre/tutorial-v2](https://github.com/vcokltfre/tutorial-v2) - A rewrite of my bot tutorial, updated to reflect new features in the Discord API, and new libraries.
 - [tailscale/gitops-acl-action](https://github.com/tailscale/gitops-acl-action) - GitOps for your Tailscale ACLs
@@ -809,7 +810,6 @@
 
 ## SCSS 
 
-- [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [jub0t/Mechon](https://github.com/jub0t/Mechon) - Powerful tool to host, manage and deploy Discord bots in multiple languages. [work in progress].
 
 ## Sass 
