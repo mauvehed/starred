@@ -1193,6 +1193,7 @@
 
 ## others 
 
+- [accius/openhamclock](https://github.com/accius/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
 - [pomtom44/GlanceRF](https://github.com/pomtom44/GlanceRF) - 
 - [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
 - [ai6ym/PicoFox](https://github.com/ai6ym/PicoFox) - The open source fox transmitter.
