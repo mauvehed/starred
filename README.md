@@ -347,6 +347,7 @@
 
 ## JavaScript 
 
+- [accius/openhamclock](https://github.com/accius/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
 - [andreaspeters/enyojs-hamdashboard](https://github.com/andreaspeters/enyojs-hamdashboard) - HAM Radio Dashboard for Chrome Browser or WebOS Based devices.
 - [hemna/aprsd-admin-extension](https://github.com/hemna/aprsd-admin-extension) - Extension to APRSD for the admin commands and web interface.
 - [oliverbross/dx-cluster-web](https://github.com/oliverbross/dx-cluster-web) - 
