@@ -209,6 +209,7 @@
 
 ## Go 
 
+- [mautrix/discord](https://github.com/mautrix/discord) - A Matrix-Discord puppeting bridge
 - [flwyd/adif-multitool](https://github.com/flwyd/adif-multitool) - Validate, modify, and convert ham radio log files with a handy command-line tool. 📻🌳🪓
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -575,6 +576,8 @@
 
 ## Python 
 
+- [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
+- [hifi/heisenbridge](https://github.com/hifi/heisenbridge) - a bouncer-style Matrix IRC bridge
 - [pomtom44/GlanceRF](https://github.com/pomtom44/GlanceRF) - 
 - [EmDecay/rf-filter-calculator](https://github.com/EmDecay/rf-filter-calculator) - A command-line tool for calculating LC filter component values. Designed for RF engineers and amateur radio operators.
 - [rightup/pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) - A lightweight Repeater Daemon implemented in Python, built using the pymc_core library.
