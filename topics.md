@@ -370,6 +370,7 @@
 
 ## chatbot 
 
+- [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [llimllib/limbo](https://github.com/llimllib/limbo) - A simple, clean, easy to modify Slack chatbot
 
@@ -529,6 +530,7 @@
 
 ## discord 
 
+- [mautrix/discord](https://github.com/mautrix/discord) - A Matrix-Discord puppeting bridge
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
 - [mauvehed/kevvy](https://github.com/mauvehed/kevvy) - A Discord bot for searching the Common Vulnerabilities and Exposures (CVE) list and providing KEV updates.
 - [fieu/discord.sh](https://github.com/fieu/discord.sh) - Write-only command-line Discord webhooks integration written in 100% Bash script
@@ -752,6 +754,7 @@
 
 ## go 
 
+- [mautrix/discord](https://github.com/mautrix/discord) - A Matrix-Discord puppeting bridge
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -778,6 +781,7 @@
 
 ## golang 
 
+- [mautrix/discord](https://github.com/mautrix/discord) - A Matrix-Discord puppeting bridge
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [vulncheck-oss/sdk](https://github.com/vulncheck-oss/sdk) - Bring the VulnCheck API to your Go applications.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -1732,6 +1736,8 @@
 
 ## python 
 
+- [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
+- [hifi/heisenbridge](https://github.com/hifi/heisenbridge) - a bouncer-style Matrix IRC bridge
 - [coulisse/spiderweb](https://github.com/coulisse/spiderweb) - Web Interface for DXSpider hamradio cluster
 - [ttrftech/NanoVNA](https://github.com/ttrftech/NanoVNA) - Very Tiny Palmtop Vector Network Analyzer
 - [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
