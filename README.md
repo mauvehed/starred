@@ -132,7 +132,7 @@
 
 ## C# # 
 
-- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) - Self-hosted performance optimization and security audit tool for UniFi Networks. Includes advanced DNS, VLAN, and firewall security checks, centralized LAN speed test server w/ Layer 2 tracing, U5G-Ma
+- [Ozark-Connect/NetworkOptimizer](https://github.com/Ozark-Connect/NetworkOptimizer) - Self-hosted performance optimization and security audit tool for UniFi Networks. Includes Wi-Fi Optimizer for wireless health scoring and channel optimization, advanced DNS/VLAN/firewall security chec
 - [Ylianst/HTCommander](https://github.com/Ylianst/HTCommander) - HAM Radio control tool for the UV-Pro, GA-5WB, VR-N76, VR-N7500 radios. Allows for easy control over your radio and APRS messaging.
 - [valheimPlus/ValheimPlus](https://github.com/valheimPlus/ValheimPlus) - A HarmonyX Mod aimed at improving the gameplay and quality of life of the game Valheim.
 - [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
