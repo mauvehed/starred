@@ -786,7 +786,6 @@
 - [hdm/inetdata](https://github.com/hdm/inetdata) - Internet data acquisition
 - [rapid7/nexpose-client](https://github.com/rapid7/nexpose-client) - DEPRECATED: Rapid7 Nexpose API client library written in Ruby
 - [rick/linode](https://github.com/rick/linode) - Ruby wrapper for the Linode automation API
-- [misterpaul/NexposeRubyScripts](https://github.com/misterpaul/NexposeRubyScripts) - Ruby scripts for working with Rapid7 Nexpose
 - [rubocop/rubocop](https://github.com/rubocop/rubocop) - A Ruby static code analyzer and formatter, based on the community Ruby style guide.
 - [pry/pry](https://github.com/pry/pry) - A runtime developer console and IRB alternative with powerful introspection capabilities.
 - [vmware-archive/rbvmomi](https://github.com/vmware-archive/rbvmomi) - Ruby interface to the VMware vSphere API.
