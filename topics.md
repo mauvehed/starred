@@ -312,6 +312,7 @@
 
 - [cterence/tailout](https://github.com/cterence/tailout) - Spawn an exit node for your tailscale network anywhere
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
+- [berry2012/kubernetes-the-hard-way-on-aws](https://github.com/berry2012/kubernetes-the-hard-way-on-aws) - Setup Kubernetes the hard way on AWS
 - [Skona27/is-even](https://github.com/Skona27/is-even) - SaaS platform for checking if number is even
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [nccgroup/Scout2](https://github.com/nccgroup/Scout2) - Security auditing tool for AWS environments
@@ -977,6 +978,7 @@
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - Open Source Cloud Native Application Protection Platform (CNAPP)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+- [berry2012/kubernetes-the-hard-way-on-aws](https://github.com/berry2012/kubernetes-the-hard-way-on-aws) - Setup Kubernetes the hard way on AWS
 - [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 - [mbround18/valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interfa
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
@@ -1403,7 +1405,6 @@
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
 - [joshbolduc/vscode-commitlint](https://github.com/joshbolduc/vscode-commitlint) - commitlint integration for VS Code
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [berry2012/kubernetes-the-hard-way-on-aws](https://github.com/berry2012/kubernetes-the-hard-way-on-aws) - Setup Kubernetes the hard way on AWS
 - [JupiterOne/secops-automation-examples](https://github.com/JupiterOne/secops-automation-examples) - Examples on how to maintain security/compliance as code and to automate SecOps using the JupiterOne platform.
 - [EVEInsight/InsightCore](https://github.com/EVEInsight/InsightCore) - Workers for Insight v2 rewrite.
 - [mikeesto/heroku-awake](https://github.com/mikeesto/heroku-awake) - :sunny: A GitHub action to keep a free Heroku dyno awake
@@ -1622,7 +1623,6 @@
 - [imposters-handbook/feedback](https://github.com/imposters-handbook/feedback) - General typos, issues, clarifications etc for The Imposter's Handbook
 - [rick/linode](https://github.com/rick/linode) - Ruby wrapper for the Linode automation API
 - [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
-- [misterpaul/NexposeRubyScripts](https://github.com/misterpaul/NexposeRubyScripts) - Ruby scripts for working with Rapid7 Nexpose
 - [therandomsecurityguy/docker-cheat-sheet](https://github.com/therandomsecurityguy/docker-cheat-sheet) - Handy cheat sheet for Docker setup and operational commands
 - [facebookarchive/fbctf](https://github.com/facebookarchive/fbctf) - Platform to host Capture the Flag competitions
 - [cheat-engine/cheat-engine](https://github.com/cheat-engine/cheat-engine) - Cheat Engine. A development environment focused on modding
