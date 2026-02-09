@@ -172,7 +172,6 @@
 - [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 - [gowenrw/DFW_InfoSec_Badge_2018](https://github.com/gowenrw/DFW_InfoSec_Badge_2018) - Files related to the DFW InfoSec Badge 2018 creation
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
-- [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [mrblinkybling/wifi2017](https://github.com/mrblinkybling/wifi2017) - Mr. Blinky Bling WiFi sniffing badge for 2017
 - [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [zku/PwnAdventure3Hacks](https://github.com/zku/PwnAdventure3Hacks) - A tiny hacking framework for the PwnAdventure3: Pwnie Island game created by http://ghostintheshellcode.com/ ( http://pwnadventure.com/ )
@@ -810,6 +809,7 @@
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [mbround18/valheim-docker](https://github.com/mbround18/valheim-docker) - Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interfa
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
+- [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 
 ## SCSS 
 
