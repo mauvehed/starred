@@ -69,7 +69,6 @@
 
 - [ai6ym/PicoFox](https://github.com/ai6ym/PicoFox) - The open source fox transmitter.
 - [skuep/AIOC](https://github.com/skuep/AIOC) - Ham Radio All-in-one-Cable
-- [sosprz/meshcore-cardputer-adv](https://github.com/sosprz/meshcore-cardputer-adv) - meshcore client for cardputer adv
 - [Stachugit/MeshCore-Cardputer-ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) - 
 - [OpenRTX/OpenRTX](https://github.com/OpenRTX/OpenRTX) - Modular Open Source Radio Firmware
 - [kamilsss655/ESPRI](https://github.com/kamilsss655/ESPRI) - ESPRI (ESP Radio Interface) project providing extended functionalities to ham radios
@@ -430,6 +429,7 @@
 ## Others 
 
 - [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
+- [sosprz/meshcore-cardputer-adv](https://github.com/sosprz/meshcore-cardputer-adv) - meshcore client for cardputer adv
 - [wb2osz/aprsspec](https://github.com/wb2osz/aprsspec) - The APRS Documentation Project: APRS Protocol Specification 1.2, Understanding APRS Packets, How to Get Started in APRS, The Best APRS Presentations, etc.
 - [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, & FM-DX networks.
 - [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
