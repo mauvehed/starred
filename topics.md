@@ -651,6 +651,7 @@
 
 ## electron 
 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [taviso/cefdebug](https://github.com/taviso/cefdebug) - Minimal code to connect to a CEF debugger.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -950,6 +951,7 @@
 
 ## javascript 
 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [andreaspeters/enyojs-hamdashboard](https://github.com/andreaspeters/enyojs-hamdashboard) - HAM Radio Dashboard for Chrome Browser or WebOS Based devices.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
@@ -1199,6 +1201,13 @@
 
 ## others 
 
+- [yoxcu/maubot-token](https://github.com/yoxcu/maubot-token) - A maubot to manage your synapse user registration tokens.
+- [williamkray/maubot-invite](https://github.com/williamkray/maubot-invite) - Maubot plugin for generating invite tokens via matrix-registration
+- [williamkray/maubot-join](https://github.com/williamkray/maubot-join) - stupid-simple maubot plugin to allow specific users to get a bot to join another room
+- [vonDassendorf/maubot_mauhelp](https://github.com/vonDassendorf/maubot_mauhelp) - 
+- [toshanmugaraj/maubot-announcement](https://github.com/toshanmugaraj/maubot-announcement) - Send anonymous messages to users similar to server notices but with more custom option
+- [shriramters/maubot-bofh](https://github.com/shriramters/maubot-bofh) - Maubot plugin for "Bastard Operator From Hell"-Style Excuses
+- [conan747/editbot](https://github.com/conan747/editbot) - Maubot bot to record message edits
 - [accius/openhamclock](https://github.com/accius/openhamclock) - "The original HamClock will cease to function in June 2026. OpenHamClock aims to carry on Elwood's legacy with a modern, open-source implementation that the community can maintain and improve together
 - [pomtom44/GlanceRF](https://github.com/pomtom44/GlanceRF) - 
 - [Aaediwen/AaediHAM](https://github.com/Aaediwen/AaediHAM) - SDL3 project inspired by HamClock from Clear Sky Institute
@@ -1736,6 +1745,7 @@
 
 ## python 
 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [hifi/heisenbridge](https://github.com/hifi/heisenbridge) - a bouncer-style Matrix IRC bridge
 - [coulisse/spiderweb](https://github.com/coulisse/spiderweb) - Web Interface for DXSpider hamradio cluster
@@ -1802,6 +1812,7 @@
 
 ## python3 
 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [ep1cman/unifi-protect-backup](https://github.com/ep1cman/unifi-protect-backup) - Python tool to backup unifi event clips in realtime
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [cosmictraders/autotraders](https://github.com/cosmictraders/autotraders) - A spacetraders API focused on automation and ease of use
@@ -1835,6 +1846,7 @@
 
 ## react-native 
 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [keybase/client](https://github.com/keybase/client) - Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
 
@@ -1975,6 +1987,7 @@
 - [wavelog/wavelog](https://github.com/wavelog/wavelog) - Webbased Amateur Radio Logging Software - Log your contacts from everywhere!
 - [meshtastic/web](https://github.com/meshtastic/web) - Meshtastic Web Client/JS Monorepo
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy & security-focused software and services
@@ -2085,6 +2098,7 @@
 
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [devhubapp/devhub](https://github.com/devhubapp/devhub) - TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them
 - [zeshuaro/vscode-poetry](https://github.com/zeshuaro/vscode-poetry) - Python Poetry support for VS Code to manage Poetry commands
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
