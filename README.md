@@ -575,6 +575,14 @@
 
 ## Python 
 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+- [yoxcu/maubot-token](https://github.com/yoxcu/maubot-token) - A maubot to manage your synapse user registration tokens.
+- [williamkray/maubot-invite](https://github.com/williamkray/maubot-invite) - Maubot plugin for generating invite tokens via matrix-registration
+- [williamkray/maubot-join](https://github.com/williamkray/maubot-join) - stupid-simple maubot plugin to allow specific users to get a bot to join another room
+- [vonDassendorf/maubot_mauhelp](https://github.com/vonDassendorf/maubot_mauhelp) - 
+- [toshanmugaraj/maubot-announcement](https://github.com/toshanmugaraj/maubot-announcement) - Send anonymous messages to users similar to server notices but with more custom option
+- [shriramters/maubot-bofh](https://github.com/shriramters/maubot-bofh) - Maubot plugin for "Bastard Operator From Hell"-Style Excuses
+- [conan747/editbot](https://github.com/conan747/editbot) - Maubot bot to record message edits
 - [maubot/maubot](https://github.com/maubot/maubot) - A plugin-based Matrix bot system.
 - [hifi/heisenbridge](https://github.com/hifi/heisenbridge) - a bouncer-style Matrix IRC bridge
 - [pomtom44/GlanceRF](https://github.com/pomtom44/GlanceRF) - 
