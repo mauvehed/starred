@@ -331,7 +331,6 @@
 ## JSON 
 
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 
 ## Java 
 
@@ -366,6 +365,7 @@
 - [mauvehed/Con-Tech-Roster-Export](https://github.com/mauvehed/Con-Tech-Roster-Export) - Automates exports from Shiftboard systems into Google Drive
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Dekita/Discord-RPC-Tool](https://github.com/Dekita/Discord-RPC-Tool) - Discord RPC Tool written by DekitaRPG
+- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Thornsnake/Spectrum](https://github.com/Thornsnake/Spectrum) - Discord bot for EVE online (discontinued)
 - [bearlikelion/vhstatus](https://github.com/bearlikelion/vhstatus) - Valheim dedicated server status page
@@ -855,7 +855,7 @@
 - [superfly/fly-pr-review-apps](https://github.com/superfly/fly-pr-review-apps) - Github Action for PR Review Apps on Fly.io
 - [tailscale/codespace](https://github.com/tailscale/codespace) - Tailscale for devcontainers and codespaces
 - [SimpleHomelab/Docker-Traefik](https://github.com/SimpleHomelab/Docker-Traefik) - Docker media and home server stack with Docker Compose, Traefik, CrowdSec, Google OAuth2/Authelia, and LetsEncrypt. Built with Deployrr and UDMS guides/videos.
-- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
+- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - Enhancing Your UniFi Experience
 - [dockserver/dockserver](https://github.com/dockserver/dockserver) - Docker + Traefik with Authelia and Cloudflare Protection
 - [berry2012/kubernetes-the-hard-way-on-aws](https://github.com/berry2012/kubernetes-the-hard-way-on-aws) - Setup Kubernetes the hard way on AWS
 - [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
