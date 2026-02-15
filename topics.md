@@ -1401,7 +1401,7 @@
 - [oliverstech/pykuma](https://github.com/oliverstech/pykuma) - An API for Python Scripts to integrate with Uptime Kuma
 - [cloudflare/python-worker-hello-world](https://github.com/cloudflare/python-worker-hello-world) - Python hello world for Cloudflare Workers
 - [ceafin/cp2102n-esp32-programmer](https://github.com/ceafin/cp2102n-esp32-programmer) - CP2102N-A02 based USB-to-UART bridge controller for use in programming ESP32 chips and modules
-- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
+- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - Enhancing Your UniFi Experience
 - [jimilinuxguy/flipperzero-touchtunes](https://github.com/jimilinuxguy/flipperzero-touchtunes) - 
 - [vonnieda/esp32-example-wifi-softap-and-sta](https://github.com/vonnieda/esp32-example-wifi-softap-and-sta) - Demonstrates SoftAP + STA mode on the ESP32 with ESP-IDF.
 - [knadh/dns.toys](https://github.com/knadh/dns.toys) - A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.
