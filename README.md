@@ -829,6 +829,7 @@
 
 ## Shell 
 
+- [camerahacks/super-supernote](https://github.com/camerahacks/super-supernote) - Tools to make Supernote devices even more super
 - [sdr-enthusiasts/docker-aprs-tracker](https://github.com/sdr-enthusiasts/docker-aprs-tracker) - Ham Radio APRS tracker container  based on DireWolf (APRS software TNC), Chrony, and GPSD
 - [Zate/cc-plugins](https://github.com/Zate/cc-plugins) - 
 - [obuzek/llm-second-brain](https://github.com/obuzek/llm-second-brain) - The LM Desk project is a central entrypoint for configuring a set of awesome tools that will power your desktop productivity using generative AI. This is a project-of-projects that brings together the
@@ -924,6 +925,7 @@
 
 ## TypeScript 
 
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [SQ2CPA/aprs-tnc-web](https://github.com/SQ2CPA/aprs-tnc-web) - APRS TNC Web app
 - [crocofied/CoreObs](https://github.com/crocofied/CoreObs) - Dashboard to manage your entire server infrastructure
 - [cially/cially](https://github.com/cially/cially) - 🪼Cially is a powerful, open-source dashboard designed to provide in-depth insights, real-time analytics, and detailed statistics for your Discord server. Monitor member activity, track engagement tren
