@@ -431,7 +431,7 @@
 - [meshtastic/antenna-reports](https://github.com/meshtastic/antenna-reports) - Community-contributed antenna testing reports and evaluations for Meshtastic devices.
 - [sosprz/meshcore-cardputer-adv](https://github.com/sosprz/meshcore-cardputer-adv) - meshcore client for cardputer adv
 - [wb2osz/aprsspec](https://github.com/wb2osz/aprsspec) - The APRS Documentation Project: APRS Protocol Specification 1.2, Understanding APRS Packets, How to Get Started in APRS, The Best APRS Presentations, etc.
-- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, & FM-DX networks.
+- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS SDR command center for the KiwiSDR, OpenWebRX, WebSDR, & FM-DX networks.
 - [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
 - [komodo-hub/komodo-hub](https://github.com/komodo-hub/komodo-hub) - 
 - [armel/M5HamRadio](https://github.com/armel/M5HamRadio) - M5HamRadio Firmwares
