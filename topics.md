@@ -1242,7 +1242,7 @@
 - [nakhonthai/ESP32APRS_Audio](https://github.com/nakhonthai/ESP32APRS_Audio) - ESP32APRS is a APRS Internet Gateway + TNC Built In that is implemented for Espressif ESP32 processor.
 - [oliverbross/dx-cluster-web](https://github.com/oliverbross/dx-cluster-web) - 
 - [DSheirer/sdrtrunk](https://github.com/DSheirer/sdrtrunk) - A cross-platform java application for decoding, monitoring, recording and streaming trunked mobile and related radio protocols using Software Defined Radios (SDR).  Website:
-- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS command center for the KiwiSDR, OpenWebRX, WebSDR, & FM-DX networks.
+- [echosdr/echo](https://github.com/echosdr/echo) - A native iOS SDR command center for the KiwiSDR, OpenWebRX, WebSDR, & FM-DX networks.
 - [nakoeppen/MeshCore-Guides](https://github.com/nakoeppen/MeshCore-Guides) - MeshCore guides repository, with a "Keep It Simple, Stupid" flavor
 - [craigerl/digipi](https://github.com/craigerl/digipi) - DigiPi code and config files
 - [Zate/cc-plugins](https://github.com/Zate/cc-plugins) - 
