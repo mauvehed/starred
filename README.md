@@ -16,6 +16,7 @@
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Hack](#hack)
@@ -292,6 +293,10 @@
 - [C2SP/wycheproof](https://github.com/C2SP/wycheproof) - Project Wycheproof tests crypto libraries against known attacks.
 - [scaleway/scaleway-cli](https://github.com/scaleway/scaleway-cli) - Command Line Interface for Scaleway
 
+## Go Template 
+
+- [yagpdb-cc/yagpdb-cc](https://github.com/yagpdb-cc/yagpdb-cc) - A curated collection of custom commands for the YAGPDB Discord bot
+
 ## HCL 
 
 - [dbrennand/home-ops](https://github.com/dbrennand/home-ops) - Mono repository for managing my Homelab infrastructure 🏠 🛠
@@ -493,7 +498,6 @@
 - [attrition-org/web-hack-mirror](https://github.com/attrition-org/web-hack-mirror) - A copy of the Attrition.org web page hack / defacement mirror. Details: https://attrition.org/mirror/
 - [joker2a/OSCP](https://github.com/joker2a/OSCP) - OSCP cheatsheet
 - [simonw/ca-fires-history](https://github.com/simonw/ca-fires-history) - Tracking fire data from www.fire.ca.gov
-- [yagpdb-cc/yagpdb-cc](https://github.com/yagpdb-cc/yagpdb-cc) - A curated collection of custom commands for the YAGPDB Discord bot
 - [rapid7/attackerkb](https://github.com/rapid7/attackerkb) - Repo for creating-and-tracking issues related to AttackerKB
 - [fm4dd/picon-one-hw](https://github.com/fm4dd/picon-one-hw) - KiCad PCB, gerber, and CAD files for the PiCon-One controller.
 - [ediskandarov-cur/home-kubernetes](https://github.com/ediskandarov-cur/home-kubernetes) - 
@@ -721,6 +725,7 @@
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable email domains
 - [rapid7/nexpose-client-python](https://github.com/rapid7/nexpose-client-python) - DEPRECATED : Rapid7 Nexpose API client library written in Python
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [eldraco/domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [google/grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
@@ -881,7 +886,6 @@
 - [speed47/spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker) - Reptar, Downfall, Zenbleed, ZombieLoad, RIDL, Fallout, Foreshadow, Spectre, Meltdown vulnerability/mitigation checker for Linux & BSD
 - [walokra/docker-ansible-playbook](https://github.com/walokra/docker-ansible-playbook) - Docker Image of Ansible for executing ansible-playbook command against an externally mounted set of Ansible playbooks
 - [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - The official Pi-hole Docker image from pi-hole.net
-- [plexguide/PlexGuide.com](https://github.com/plexguide/PlexGuide.com) - PlexGuide is a comprehensive Docker container management solution designed for Ubuntu & Debian OS. While it specializes in deploying media server applications like Plex, the platform incorporates Trae
 - [wazuh/wazuh-docker](https://github.com/wazuh/wazuh-docker) - Wazuh - Docker containers
 - [Hexxeh/rpi-update](https://github.com/Hexxeh/rpi-update) - An easier way to update the firmware of your Raspberry Pi
 - [jpetazzo/nsenter](https://github.com/jpetazzo/nsenter) - 
